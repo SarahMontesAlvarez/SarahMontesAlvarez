@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Kingdom to Claim](https://www.goodreads.com/review/show/7397212220?utm_medium=api&utm_source=rss) by Sian Ann Bessey (⭐️4.25)
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.32)
 - [The Children of Gods and Fighting Men (Gael Song, #1)](https://www.goodreads.com/review/show/7362061854?utm_medium=api&utm_source=rss) by Shauna Lawless (⭐️4.12)
-- [Sharpe&apos;s Command](https://www.goodreads.com/review/show/7357978392?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.75)
+- [Sharpe&apos;s Command](https://www.goodreads.com/review/show/7357978392?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.4)
 - [Jesus and John Wayne: How White Evangelicals Corrupted a Faith and Fractured a Nation](https://www.goodreads.com/review/show/7219417414?utm_medium=api&utm_source=rss) by Kristin  Kobes Du Mez (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
