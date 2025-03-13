@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <div></div>
 <div></div>
 
-# Last 5 Books I've Read 🤓
+# Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.32)
 - [The Palace: From the Tudors to the Windsors, 500 Years of British History at Hampton Court](https://www.goodreads.com/review/show/7249881658?utm_medium=api&utm_source=rss) by Gareth Russell (⭐️4.14)
