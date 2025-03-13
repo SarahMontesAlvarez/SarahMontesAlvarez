@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.24)
+- [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.89)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.18)
 - [Upon a Starlit Tide](https://www.goodreads.com/review/show/7352263880?utm_medium=api&utm_source=rss) by Kell Woods (⭐️4.37)
