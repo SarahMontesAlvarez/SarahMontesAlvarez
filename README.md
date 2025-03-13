@@ -31,6 +31,10 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <div></div>
 <div></div>
 
+# Last 5 Books I've Read 🤓
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 ---
 
 <p>&nbsp;</p>
