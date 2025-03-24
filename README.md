@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.88)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.18)
-- [Upon a Starlit Tide](https://www.goodreads.com/review/show/7352263880?utm_medium=api&utm_source=rss) by Kell Woods (⭐️4.36)
+- [Upon a Starlit Tide](https://www.goodreads.com/review/show/7352263880?utm_medium=api&utm_source=rss) by Kell Woods (⭐️4.37)
 - [The Words of Kings and Prophets (Gael Song, #2)](https://www.goodreads.com/review/show/7362062918?utm_medium=api&utm_source=rss) by Shauna Lawless (⭐️4.46)
 - [A Kingdom to Claim](https://www.goodreads.com/review/show/7397212220?utm_medium=api&utm_source=rss) by Sian Ann Bessey (⭐️4.25)
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.27)
