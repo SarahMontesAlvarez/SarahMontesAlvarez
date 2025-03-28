@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Kingdom to Claim](https://www.goodreads.com/review/show/7397212220?utm_medium=api&utm_source=rss) by Sian Ann Bessey (⭐️4.25)
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.26)
 - [The Children of Gods and Fighting Men (Gael Song, #1)](https://www.goodreads.com/review/show/7362061854?utm_medium=api&utm_source=rss) by Shauna Lawless (⭐️4.11)
-- [Sharpe&apos;s Command](https://www.goodreads.com/review/show/7357978392?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.5)
+- [Sharpe&apos;s Command](https://www.goodreads.com/review/show/7357978392?utm_medium=api&utm_source=rss) by Bernard Cornwell (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 
 ---
