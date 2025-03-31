@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.24)
+- [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.25)
 - [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.91)
 - [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.75)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
