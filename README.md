@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.24)
 - [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.87)
-- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.75)
+- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.6)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.89)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.17)
