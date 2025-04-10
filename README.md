@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [All We Were Promised](https://www.goodreads.com/review/show/7461634090?utm_medium=api&utm_source=rss) by Ashton Lattimore (⭐️4.01)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/4949681358?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.21)
-- [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.89)
+- [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.9)
 - [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.6)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.89)
