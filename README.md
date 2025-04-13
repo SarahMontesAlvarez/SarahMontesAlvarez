@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
 - [Small Things Like These](https://www.goodreads.com/review/show/7469506142?utm_medium=api&utm_source=rss) by Claire Keegan (⭐️4.14)
 - [The Widow Clicquot: The Story of a Champagne Empire and the Woman Who Ruled It (P.S.)](https://www.goodreads.com/review/show/7461634447?utm_medium=api&utm_source=rss) by Tilar J. Mazzeo (⭐️3.72)
-- [All We Were Promised](https://www.goodreads.com/review/show/7461634090?utm_medium=api&utm_source=rss) by Ashton Lattimore (⭐️4.01)
+- [All We Were Promised](https://www.goodreads.com/review/show/7461634090?utm_medium=api&utm_source=rss) by Ashton Lattimore (⭐️4.02)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/4949681358?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
 - [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.2)
 - [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.83)
