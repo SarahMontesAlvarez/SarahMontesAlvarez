@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Shadow of What Was Lost (The Licanius Trilogy, #1)](https://www.goodreads.com/review/show/7481466148?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.13)
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/7481465450?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.61)
+- [Trial of the Sun Queen (Artefacts of Ouranos, #1)](https://www.goodreads.com/review/show/7487953344?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.81)
+- [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.85)
+- [Fate of the Sun King (Artefacts of Ouranos, #3)](https://www.goodreads.com/review/show/7487953707?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️4)
+- [Rule of the Aurora King (Artefacts of Ouranos, #2)](https://www.goodreads.com/review/show/7487953598?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.89)
+- [The Shadow of What Was Lost (The Licanius Trilogy, #1)](https://www.goodreads.com/review/show/7481466148?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.13)
 - [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
 - [Small Things Like These](https://www.goodreads.com/review/show/7469506142?utm_medium=api&utm_source=rss) by Claire Keegan (⭐️4.14)
 - [The Widow Clicquot: The Story of a Champagne Empire and the Woman Who Ruled It (P.S.)](https://www.goodreads.com/review/show/7461634447?utm_medium=api&utm_source=rss) by Tilar J. Mazzeo (⭐️3.72)
 - [All We Were Promised](https://www.goodreads.com/review/show/7461634090?utm_medium=api&utm_source=rss) by Ashton Lattimore (⭐️4.02)
-- [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/4949681358?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
-- [The King&apos;s Messenger](https://www.goodreads.com/review/show/7397210175?utm_medium=api&utm_source=rss) by Susanna Kearsley (⭐️4.19)
-- [The Other March Sisters](https://www.goodreads.com/review/show/7431073215?utm_medium=api&utm_source=rss) by Linda Epstein (⭐️3.83)
-- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.62)
 <!-- GOODREADS-LIST:END -->
 
 ---
