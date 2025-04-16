@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/7481465450?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.61)
 - [Trial of the Sun Queen (Artefacts of Ouranos, #1)](https://www.goodreads.com/review/show/7487953344?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.81)
-- [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.85)
+- [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.84)
 - [Fate of the Sun King (Artefacts of Ouranos, #3)](https://www.goodreads.com/review/show/7487953707?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️4)
 - [Rule of the Aurora King (Artefacts of Ouranos, #2)](https://www.goodreads.com/review/show/7487953598?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.89)
 - [The Shadow of What Was Lost (The Licanius Trilogy, #1)](https://www.goodreads.com/review/show/7481466148?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.13)
