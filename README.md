@@ -33,6 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.29)
+- [No Other Highlander (The McKennas, #2)](https://www.goodreads.com/review/show/7513784370?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️3.85)
+- [The Bride Chooses a Highlander (The McKennas, #3)](https://www.goodreads.com/review/show/7513784632?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️4.11)
 - [The Book of Azrael (Gods and Monsters, #1)](https://www.goodreads.com/review/show/7505742004?utm_medium=api&utm_source=rss) by Amber V. Nicole (⭐️4.07)
 - [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.84)
 - [The Highlander Who Loved Me (The McKennas, #1)](https://www.goodreads.com/review/show/7498569373?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️3.61)
@@ -40,9 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
 - [Rule of the Aurora King (Artefacts of Ouranos, #2)](https://www.goodreads.com/review/show/7487953598?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.89)
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/7481465450?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.6)
-- [Trial of the Sun Queen (Artefacts of Ouranos, #1)](https://www.goodreads.com/review/show/7487953344?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.81)
-- [The Shadow of What Was Lost (The Licanius Trilogy, #1)](https://www.goodreads.com/review/show/7481466148?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.13)
-- [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 ---
