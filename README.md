@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.94)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.17)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Book of Azrael (Gods & Monsters, #1)](https://www.goodreads.com/review/show/7505742004?utm_medium=api&utm_source=rss) by Amber V. Nicole (⭐️4.07)
 - [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.84)
 - [The Highlander Who Loved Me (The McKennas, #1)](https://www.goodreads.com/review/show/7498569373?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️3.61)
-- [Fate of the Sun King (Artefacts of Ouranos, #3)](https://www.goodreads.com/review/show/7487953707?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ---
