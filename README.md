@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [No Other Highlander (The McKennas, #2)](https://www.goodreads.com/review/show/7513784370?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️3.85)
 - [The Bride Chooses a Highlander (The McKennas, #3)](https://www.goodreads.com/review/show/7513784632?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️4.11)
 - [The Book of Azrael (Gods & Monsters, #1)](https://www.goodreads.com/review/show/7505742004?utm_medium=api&utm_source=rss) by Amber V. Nicole (⭐️4.07)
-- [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.83)
+- [Tale of the Heart Queen (Artefacts of Ouranos, #4)](https://www.goodreads.com/review/show/7487953767?utm_medium=api&utm_source=rss) by Nisha J. Tuli (⭐️3.84)
 <!-- GOODREADS-LIST:END -->
 
 ---
