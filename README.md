@@ -36,7 +36,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
 - [The City of Brass (The Daevabad Trilogy, #1)](https://www.goodreads.com/review/show/7532438320?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.12)
 - [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.29)
-- [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.93)
+- [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.94)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.16)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
 - [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
