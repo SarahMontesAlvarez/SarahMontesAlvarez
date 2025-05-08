@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
+- [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
+- [The Empire of Gold (The Daevabad Trilogy, #3)](https://www.goodreads.com/review/show/7554002141?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.48)
+- [The Kingdom of Copper (The Daevabad Trilogy, #2)](https://www.goodreads.com/review/show/7554001786?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.37)
+- [The River of Silver: Tales from the Daevabad Trilogy](https://www.goodreads.com/review/show/7554002275?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.25)
 - [The City of Brass (The Daevabad Trilogy, #1)](https://www.goodreads.com/review/show/7532438320?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.12)
+- [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
 - [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.29)
 - [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.93)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.16)
 - [Anna Karennina](https://www.goodreads.com/review/show/7400028050?utm_medium=api&utm_source=rss) by Leo Tolstoy (⭐️4.21)
-- [Leadership Strategy and Tactics: Field Manual](https://www.goodreads.com/review/show/7471178200?utm_medium=api&utm_source=rss) by Jocko Willink (⭐️4.39)
-- [No Other Highlander (The McKennas, #2)](https://www.goodreads.com/review/show/7513784370?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️3.85)
-- [The Bride Chooses a Highlander (The McKennas, #3)](https://www.goodreads.com/review/show/7513784632?utm_medium=api&utm_source=rss) by Adrienne Basso (⭐️4.11)
-- [The Book of Azrael (Gods & Monsters, #1)](https://www.goodreads.com/review/show/7505742004?utm_medium=api&utm_source=rss) by Amber V. Nicole (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
 ---
