@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
 - [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.28)
 - [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.93)
-- [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.16)
+- [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 ---
