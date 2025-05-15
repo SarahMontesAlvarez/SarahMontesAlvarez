@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7570843134?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.78)
+- [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7570843134?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.77)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.25)
 - [Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)](https://www.goodreads.com/review/show/7558365798?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️3.98)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
