@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7570843134?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.78)
+- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.25)
 - [Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)](https://www.goodreads.com/review/show/7558365798?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️3.98)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
 - [The Empire of Gold (The Daevabad Trilogy, #3)](https://www.goodreads.com/review/show/7554002141?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.48)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The City of Brass (The Daevabad Trilogy, #1)](https://www.goodreads.com/review/show/7532438320?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.12)
 - [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
 - [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.28)
-- [The Bright Sword](https://www.goodreads.com/review/show/7523213867?utm_medium=api&utm_source=rss) by Lev Grossman (⭐️3.93)
-- [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 ---
