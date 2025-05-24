@@ -33,6 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Queen of the Tearling (The Queen of the Tearling, #1)](https://www.goodreads.com/review/show/7595043028?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️3.95)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.54)
+- [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.38)
 - [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7570843134?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.76)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.25)
 - [Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)](https://www.goodreads.com/review/show/7558365798?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️3.98)
@@ -40,9 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Empire of Gold (The Daevabad Trilogy, #3)](https://www.goodreads.com/review/show/7554002141?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.47)
 - [The Kingdom of Copper (The Daevabad Trilogy, #2)](https://www.goodreads.com/review/show/7554001786?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.37)
 - [The River of Silver: Tales from the Daevabad Trilogy](https://www.goodreads.com/review/show/7554002275?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.25)
-- [The City of Brass (The Daevabad Trilogy, #1)](https://www.goodreads.com/review/show/7532438320?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.12)
-- [A Fate Inked in Blood (Saga of the Unfated, #1)](https://www.goodreads.com/review/show/7527012559?utm_medium=api&utm_source=rss) by Danielle L. Jensen (⭐️3.91)
-- [Quicksilver (Fae & Alchemy, #1)](https://www.goodreads.com/review/show/7513786859?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
 ---
