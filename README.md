@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [The Queen of the Tearling (The Queen of the Tearling, #1)](https://www.goodreads.com/review/show/7595043028?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️3.95)
-- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.54)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.53)
 - [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.38)
 - [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7570843134?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.77)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.25)
