@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Book of Doors](https://www.goodreads.com/review/show/7615127171?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.03)
 - [The Invasion of the Tearling (The Queen of the Tearling, #2)](https://www.goodreads.com/review/show/7605530947?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️4.08)
 - [The Queen of the Tearling (The Queen of the Tearling, #1)](https://www.goodreads.com/review/show/7595043028?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️3.95)
 - [Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)](https://www.goodreads.com/review/show/7558365798?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️3.98)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
 - [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.5)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
-- [The Empire of Gold (The Daevabad Trilogy, #3)](https://www.goodreads.com/review/show/7554002141?utm_medium=api&utm_source=rss) by S.A. Chakraborty (⭐️4.47)
 <!-- GOODREADS-LIST:END -->
 
 ---
