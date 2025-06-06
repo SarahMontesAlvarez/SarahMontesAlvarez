@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Traitor of Sherwood Forest](https://www.goodreads.com/review/show/7605528518?utm_medium=api&utm_source=rss) by Amy S. Kaufman (⭐️3.69)
 - [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.38)
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
-- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.49)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.48)
 - [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/7400029048?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
 
