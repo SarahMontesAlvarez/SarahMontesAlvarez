@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [An Ill-Made Match (Vawdrey Brothers, #3)](https://www.goodreads.com/review/show/7647190673?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.1)
-- [His Forsaken Bride (Vawdrey Brothers, #2)](https://www.goodreads.com/review/show/7647190494?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.09)
-- [The Ever King (The Ever Seas, #1)](https://www.goodreads.com/review/show/7636208097?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.14)
-- [The Book of Doors](https://www.goodreads.com/review/show/7615127171?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.03)
-- [The Favourite (Brides of Karadok #6)](https://www.goodreads.com/review/show/7636199674?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️3.94)
+- [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
+- [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
+- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.85)
+- [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
+- [The Island of Forgotten Gods](https://www.goodreads.com/review/show/7649922043?utm_medium=api&utm_source=rss) by Victor Pineiro (⭐️)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.45)
 - [Her Baseborn Bridegroom (Vawdrey Brothers, #1)](https://www.goodreads.com/review/show/7636205963?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.02)
-- [The Invasion of the Tearling (The Queen of the Tearling, #2)](https://www.goodreads.com/review/show/7605530947?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️4.08)
-- [The Queen of the Tearling (The Queen of the Tearling, #1)](https://www.goodreads.com/review/show/7595043028?utm_medium=api&utm_source=rss) by Erika Johansen (⭐️3.95)
-- [Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)](https://www.goodreads.com/review/show/7558365798?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️3.98)
-- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.25)
+- [His Forsaken Bride (Vawdrey Brothers, #2)](https://www.goodreads.com/review/show/7647190494?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.09)
+- [An Ill-Made Match (Vawdrey Brothers, #3)](https://www.goodreads.com/review/show/7647190673?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.11)
+- [The Ever King (The Ever Seas, #1)](https://www.goodreads.com/review/show/7636208097?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 
 ---
