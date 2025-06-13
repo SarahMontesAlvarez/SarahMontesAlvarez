@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
-- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.85)
+- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.81)
 - [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
 - [The Island of Forgotten Gods](https://www.goodreads.com/review/show/7649922043?utm_medium=api&utm_source=rss) by Victor Pineiro (⭐️)
 - [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.45)
