@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Island of Forgotten Gods](https://www.goodreads.com/review/show/7649922043?utm_medium=api&utm_source=rss) by Victor Pineiro (⭐️)
 - [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.45)
 - [Her Baseborn Bridegroom (Vawdrey Brothers, #1)](https://www.goodreads.com/review/show/7636205963?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.02)
-- [His Forsaken Bride (Vawdrey Brothers, #2)](https://www.goodreads.com/review/show/7647190494?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.1)
+- [His Forsaken Bride (Vawdrey Brothers, #2)](https://www.goodreads.com/review/show/7647190494?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.09)
 - [An Ill-Made Match (Vawdrey Brothers, #3)](https://www.goodreads.com/review/show/7647190673?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.11)
 - [The Ever King (The Ever Seas, #1)](https://www.goodreads.com/review/show/7636208097?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
