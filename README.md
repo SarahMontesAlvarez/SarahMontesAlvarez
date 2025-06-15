@@ -33,8 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.4)
+- [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
 - [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
 - [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.77)
