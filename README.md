@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.4)
+- [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.44)
 - [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
+- [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.4)
+- [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
 - [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.77)
 - [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
 - [The Island of Forgotten Gods](https://www.goodreads.com/review/show/7649922043?utm_medium=api&utm_source=rss) by Victor Pineiro (⭐️)
-- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.44)
-- [Her Baseborn Bridegroom (Vawdrey Brothers, #1)](https://www.goodreads.com/review/show/7636205963?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.02)
-- [His Forsaken Bride (Vawdrey Brothers, #2)](https://www.goodreads.com/review/show/7647190494?utm_medium=api&utm_source=rss) by Alice Coldbreath (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 
 ---
