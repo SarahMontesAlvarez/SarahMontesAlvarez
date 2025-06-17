@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [The Heart of the Conqueror (The Chronicles of Matilda, Lady of Flanders, #1)](https://www.goodreads.com/review/show/7660395602?utm_medium=api&utm_source=rss) by G.  Lawrence (⭐️4.16)
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
-- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.44)
+- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.43)
 - [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.4)
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
