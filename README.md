@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Heart of the Conqueror (The Chronicles of Matilda, Lady of Flanders, #1)](https://www.goodreads.com/review/show/7660395602?utm_medium=api&utm_source=rss) by G.  Lawrence (⭐️4.16)
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
 - [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.44)
 - [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.44)
 - [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.74)
 - [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
-- [The Island of Forgotten Gods](https://www.goodreads.com/review/show/7649922043?utm_medium=api&utm_source=rss) by Victor Pineiro (⭐️)
 <!-- GOODREADS-LIST:END -->
 
 ---
