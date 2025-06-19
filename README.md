@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
-- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.74)
+- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.72)
 - [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
