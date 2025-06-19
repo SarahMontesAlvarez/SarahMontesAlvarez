@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Glint (The Plated Prisoner, #2)](https://www.goodreads.com/review/show/7668177231?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.16)
+- [Gild (The Plated Prisoner, #1)](https://www.goodreads.com/review/show/7668176454?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️3.6)
 - [The Heart of the Conqueror (The Chronicles of Matilda, Lady of Flanders, #1)](https://www.goodreads.com/review/show/7660395602?utm_medium=api&utm_source=rss) by G.  Lawrence (⭐️4.16)
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
 - [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.43)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
 - [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
-- [The House of Two Sisters](https://www.goodreads.com/review/show/7649927262?utm_medium=api&utm_source=rss) by Rachel Louise Driscoll (⭐️3.72)
-- [The Quarryman&apos;s Girl](https://www.goodreads.com/review/show/7649924693?utm_medium=api&utm_source=rss) by Melanie Forde (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ---
