@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Glint (The Plated Prisoner, #2)](https://www.goodreads.com/review/show/7668177231?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.16)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.5)
+- [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4)
+- [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.12)
+- [The Briar Club](https://www.goodreads.com/review/show/7668354543?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️4.22)
+- [The Time Returns](https://www.goodreads.com/review/show/7668350336?utm_medium=api&utm_source=rss) by Alexandra Ripley (⭐️3.85)
+- [Gleam (The Plated Prisoner, #3)](https://www.goodreads.com/review/show/7668348653?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.38)
+- [Glow (The Plated Prisoner, #4)](https://www.goodreads.com/review/show/7668348424?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.14)
 - [Gild (The Plated Prisoner, #1)](https://www.goodreads.com/review/show/7668176454?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️3.6)
-- [The Heart of the Conqueror (The Chronicles of Matilda, Lady of Flanders, #1)](https://www.goodreads.com/review/show/7660395602?utm_medium=api&utm_source=rss) by G.  Lawrence (⭐️4.16)
+- [Glint (The Plated Prisoner, #2)](https://www.goodreads.com/review/show/7668177231?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.16)
 - [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
-- [The Knight and the Moth (The Stonewater Kingdom, #1)](https://www.goodreads.com/review/show/7595041867?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.43)
-- [The Pact](https://www.goodreads.com/review/show/7656397187?utm_medium=api&utm_source=rss) by Sharon J. Bolton (⭐️3.9)
-- [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.4)
-- [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
-- [Annapurna's Bounty: Indian Food Legends Retold](https://www.goodreads.com/review/show/7649929653?utm_medium=api&utm_source=rss) by Veena Gokhale (⭐️3.85)
-- [The Women on Platform Two](https://www.goodreads.com/review/show/7649927975?utm_medium=api&utm_source=rss) by Laura     Anthony (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
 
 ---
