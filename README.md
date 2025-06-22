@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Emily Wilde’s Map of the Otherlands (Emily Wilde, #2)](https://www.goodreads.com/review/show/7674782659?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.27)
 - [Gleam (The Plated Prisoner, #3)](https://www.goodreads.com/review/show/7668348653?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.38)
 - [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.37)
-- [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4)
+- [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4.25)
 - [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.13)
 - [The Briar Club](https://www.goodreads.com/review/show/7668354543?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️4.22)
 - [The Time Returns](https://www.goodreads.com/review/show/7668350336?utm_medium=api&utm_source=rss) by Alexandra Ripley (⭐️3.85)
 - [Glow (The Plated Prisoner, #4)](https://www.goodreads.com/review/show/7668348424?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.14)
 - [Gild (The Plated Prisoner, #1)](https://www.goodreads.com/review/show/7668176454?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️3.6)
 - [Glint (The Plated Prisoner, #2)](https://www.goodreads.com/review/show/7668177231?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.16)
-- [The Iron King (The Iron Fey, #1)](https://www.goodreads.com/review/show/7605522491?utm_medium=api&utm_source=rss) by Julie Kagawa (⭐️3.88)
 <!-- GOODREADS-LIST:END -->
 
 ---
