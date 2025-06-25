@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Gleam (The Plated Prisoner, #3)](https://www.goodreads.com/review/show/7668348653?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.38)
 - [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.4)
 - [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4.4)
-- [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.12)
+- [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.11)
 - [The Briar Club](https://www.goodreads.com/review/show/7668354543?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️4.23)
 - [The Time Returns](https://www.goodreads.com/review/show/7668350336?utm_medium=api&utm_source=rss) by Alexandra Ripley (⭐️3.85)
 - [Gild (The Plated Prisoner, #1)](https://www.goodreads.com/review/show/7668176454?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️3.6)
