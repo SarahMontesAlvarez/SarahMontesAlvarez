@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Emily Wilde’s Map of the Otherlands (Emily Wilde, #2)](https://www.goodreads.com/review/show/7674782659?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.27)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [Gleam (The Plated Prisoner, #3)](https://www.goodreads.com/review/show/7668348653?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.38)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.44)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.45)
 - [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4.4)
 - [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.11)
 - [The Briar Club](https://www.goodreads.com/review/show/7668354543?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️4.23)
