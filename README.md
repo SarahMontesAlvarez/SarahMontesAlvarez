@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [A Kingdom of Flesh and Fire (Blood and Ash, #2)](https://www.goodreads.com/review/show/7692918863?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.31)
+- [A Kingdom of Flesh and Fire (Blood and Ash, #2)](https://www.goodreads.com/review/show/7692918863?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.32)
 - [From Blood and Ash (Blood and Ash, #1)](https://www.goodreads.com/review/show/7692894238?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.19)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [Phantasma (Wicked Games, #1)](https://www.goodreads.com/review/show/7692917580?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.04)
