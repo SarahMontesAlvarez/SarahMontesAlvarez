@@ -34,15 +34,15 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [A Kingdom of Flesh and Fire (Blood and Ash, #2)](https://www.goodreads.com/review/show/7692918863?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.31)
+- [The Butcher](https://www.goodreads.com/review/show/7719195087?utm_medium=api&utm_source=rss) by Jennifer Hillier (⭐️4.03)
+- [The War of Two Queens (Blood and Ash, #4)](https://www.goodreads.com/review/show/7719197398?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.02)
+- [The ​Crown of Gilded Bones (Blood and Ash, #3)](https://www.goodreads.com/review/show/7719196922?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.11)
+- [A Soul of Ash and Blood (Blood and Ash, #5)](https://www.goodreads.com/review/show/7719197833?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️3.88)
+- [The Primal of Blood and Bone (Blood and Ash, #6)](https://www.goodreads.com/review/show/7719198151?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.35)
 - [From Blood and Ash (Blood and Ash, #1)](https://www.goodreads.com/review/show/7692894238?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.19)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [Phantasma (Wicked Games, #1)](https://www.goodreads.com/review/show/7692917580?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.04)
 - [Glow (The Plated Prisoner, #4)](https://www.goodreads.com/review/show/7668348424?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.14)
-- [Emily Wilde’s Map of the Otherlands (Emily Wilde, #2)](https://www.goodreads.com/review/show/7674782659?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.27)
-- [Gleam (The Plated Prisoner, #3)](https://www.goodreads.com/review/show/7668348653?utm_medium=api&utm_source=rss) by Raven Kennedy (⭐️4.38)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.35)
-- [The Bookbinder&apos;s Secret](https://www.goodreads.com/review/show/7668359671?utm_medium=api&utm_source=rss) by A.D. Bell (⭐️4.43)
-- [In the Veins of the Drowning (The Siren Mage, #1)](https://www.goodreads.com/review/show/7668355980?utm_medium=api&utm_source=rss) by Kalie Cassidy (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 ---
