@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The War of Two Queens (Blood and Ash, #4)](https://www.goodreads.com/review/show/7719197398?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.02)
 - [The ​Crown of Gilded Bones (Blood and Ash, #3)](https://www.goodreads.com/review/show/7719196922?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.11)
 - [A Soul of Ash and Blood (Blood and Ash, #5)](https://www.goodreads.com/review/show/7719197833?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️3.88)
-- [The Primal of Blood and Bone (Blood and Ash, #6)](https://www.goodreads.com/review/show/7719198151?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.35)
+- [The Primal of Blood and Bone (Blood and Ash, #6)](https://www.goodreads.com/review/show/7719198151?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.34)
 - [From Blood and Ash (Blood and Ash, #1)](https://www.goodreads.com/review/show/7692894238?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.19)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [Phantasma (Wicked Games, #1)](https://www.goodreads.com/review/show/7692917580?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.04)
