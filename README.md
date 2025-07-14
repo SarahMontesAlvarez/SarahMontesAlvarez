@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.43)
 - [The Ten Thousand Doors of January](https://www.goodreads.com/review/show/7734587969?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️3.99)
 - [Kingdom of Claw (The Ashen, #2)](https://www.goodreads.com/review/show/7732541003?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.35)
 - [The Road of Bones (The Ashen, #1)](https://www.goodreads.com/review/show/7732540723?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.2)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The War of Two Queens (Blood and Ash, #4)](https://www.goodreads.com/review/show/7719197398?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.02)
 - [The ​Crown of Gilded Bones (Blood and Ash, #3)](https://www.goodreads.com/review/show/7719196922?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.11)
 - [A Soul of Ash and Blood (Blood and Ash, #5)](https://www.goodreads.com/review/show/7719197833?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️3.88)
-- [The Primal of Blood and Bone (Blood and Ash, #6)](https://www.goodreads.com/review/show/7719198151?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 ---
