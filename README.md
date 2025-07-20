@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
+- [Fragile Oath (The Lochlann Deception #2)](https://www.goodreads.com/review/show/7753549641?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.17)
+- [Hollow Court (The Lochlann Deception #1)](https://www.goodreads.com/review/show/7753549159?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.15)
+- [Enchantra (Wicked Games, #2)](https://www.goodreads.com/review/show/7732538113?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.3)
 - [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.42)
+- [The Lost Bookshop](https://www.goodreads.com/review/show/7753460915?utm_medium=api&utm_source=rss) by Evie  Woods (⭐️4.02)
+- [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
 - [The Ten Thousand Doors of January](https://www.goodreads.com/review/show/7734587969?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️3.99)
 - [Kingdom of Claw (The Ashen, #2)](https://www.goodreads.com/review/show/7732541003?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.35)
 - [The Road of Bones (The Ashen, #1)](https://www.goodreads.com/review/show/7732540723?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.2)
-- [Enchantra (Wicked Games, #2)](https://www.goodreads.com/review/show/7732538113?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.3)
 - [A Kingdom of Flesh and Fire (Blood and Ash, #2)](https://www.goodreads.com/review/show/7692918863?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.31)
-- [The Butcher](https://www.goodreads.com/review/show/7719195087?utm_medium=api&utm_source=rss) by Jennifer Hillier (⭐️4.03)
-- [The War of Two Queens (Blood and Ash, #4)](https://www.goodreads.com/review/show/7719197398?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.02)
-- [The ​Crown of Gilded Bones (Blood and Ash, #3)](https://www.goodreads.com/review/show/7719196922?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 
 ---
