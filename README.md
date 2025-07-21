@@ -33,7 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Fragile Oath (The Lochlann Deception #2)](https://www.goodreads.com/review/show/7753549641?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.17)
+- [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758603210?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.03)
+- [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.08)
+- [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
 - [Hollow Court (The Lochlann Deception #1)](https://www.goodreads.com/review/show/7753549159?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.15)
 - [Enchantra (Wicked Games, #2)](https://www.goodreads.com/review/show/7732538113?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.3)
 - [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.42)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
 - [The Ten Thousand Doors of January](https://www.goodreads.com/review/show/7734587969?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️3.99)
 - [Kingdom of Claw (The Ashen, #2)](https://www.goodreads.com/review/show/7732541003?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.35)
-- [The Road of Bones (The Ashen, #1)](https://www.goodreads.com/review/show/7732540723?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.2)
-- [A Kingdom of Flesh and Fire (Blood and Ash, #2)](https://www.goodreads.com/review/show/7692918863?utm_medium=api&utm_source=rss) by Jennifer L. Armentrout (⭐️4.31)
 <!-- GOODREADS-LIST:END -->
 
 ---
