@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Eights](https://www.goodreads.com/review/show/7769540426?utm_medium=api&utm_source=rss) by Joanna  Miller (⭐️3.73)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758603210?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.03)
 - [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.08)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Lost Bookshop](https://www.goodreads.com/review/show/7753460915?utm_medium=api&utm_source=rss) by Evie  Woods (⭐️4.02)
 - [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
 - [The Ten Thousand Doors of January](https://www.goodreads.com/review/show/7734587969?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️3.99)
-- [Kingdom of Claw (The Ashen, #2)](https://www.goodreads.com/review/show/7732541003?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 
 ---
