@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
 - [Hollow Court (The Lochlann Deception #1)](https://www.goodreads.com/review/show/7753549159?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.15)
 - [Enchantra (Wicked Games, #2)](https://www.goodreads.com/review/show/7732538113?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.3)
-- [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.41)
+- [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.4)
 - [The Lost Bookshop](https://www.goodreads.com/review/show/7753460915?utm_medium=api&utm_source=rss) by Evie  Woods (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
