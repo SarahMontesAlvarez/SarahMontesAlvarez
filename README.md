@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Paladin's Hope (The Saint of Steel, #3)](https://www.goodreads.com/review/show/7784516287?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
+- [Paladin's Strength (The Saint of Steel, #2)](https://www.goodreads.com/review/show/7773959981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
+- [Paladin's Faith (The Saint of Steel, #4)](https://www.goodreads.com/review/show/7784516404?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.15)
 - [Never Flinch (Holly Gibney, #4)](https://www.goodreads.com/review/show/7773959369?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.78)
 - [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.07)
-- [Paladin's Strength (The Saint of Steel, #2)](https://www.goodreads.com/review/show/7773959981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [The Eights](https://www.goodreads.com/review/show/7769540426?utm_medium=api&utm_source=rss) by Joanna  Miller (⭐️3.73)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758603210?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.03)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
 - [Hollow Court (The Lochlann Deception #1)](https://www.goodreads.com/review/show/7753549159?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.15)
 - [Enchantra (Wicked Games, #2)](https://www.goodreads.com/review/show/7732538113?utm_medium=api&utm_source=rss) by Kaylie Smith (⭐️4.3)
-- [Atmosphere](https://www.goodreads.com/review/show/7735909218?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️4.4)
-- [The Lost Bookshop](https://www.goodreads.com/review/show/7753460915?utm_medium=api&utm_source=rss) by Evie  Woods (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
 ---
