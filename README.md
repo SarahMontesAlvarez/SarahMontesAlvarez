@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.91)
 - [Hearts in Atlantis](https://www.goodreads.com/review/show/7796410002?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.86)
 - [The Long Walk](https://www.goodreads.com/review/show/7791545667?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️4.1)
 - [Duma Key](https://www.goodreads.com/review/show/3845143535?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.97)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Never Flinch (Holly Gibney, #4)](https://www.goodreads.com/review/show/7773959369?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.77)
 - [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.07)
 - [The Eights](https://www.goodreads.com/review/show/7769540426?utm_medium=api&utm_source=rss) by Joanna  Miller (⭐️3.73)
-- [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758603210?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
 
 ---
