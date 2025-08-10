@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Long Walk](https://www.goodreads.com/review/show/7791545667?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️4.1)
 - [Duma Key](https://www.goodreads.com/review/show/3845143535?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.97)
 - [Paladin's Hope (The Saint of Steel, #3)](https://www.goodreads.com/review/show/7784516287?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
-- [Paladin's Strength (The Saint of Steel, #2)](https://www.goodreads.com/review/show/7773959981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
+- [Paladin's Strength (The Saint of Steel, #2)](https://www.goodreads.com/review/show/7773959981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.19)
 - [Paladin's Faith (The Saint of Steel, #4)](https://www.goodreads.com/review/show/7784516404?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.15)
 - [Never Flinch (Holly Gibney, #4)](https://www.goodreads.com/review/show/7773959369?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.77)
 - [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.07)
