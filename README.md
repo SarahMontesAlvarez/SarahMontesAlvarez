@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Paladin's Faith (The Saint of Steel, #4)](https://www.goodreads.com/review/show/7784516404?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.15)
 - [Never Flinch (Holly Gibney, #4)](https://www.goodreads.com/review/show/7773959369?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.76)
 - [Paladin's Grace (The Saint of Steel, #1)](https://www.goodreads.com/review/show/7758596426?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.07)
-- [The Eights](https://www.goodreads.com/review/show/7769540426?utm_medium=api&utm_source=rss) by Joanna  Miller (⭐️3.73)
+- [The Eights](https://www.goodreads.com/review/show/7769540426?utm_medium=api&utm_source=rss) by Joanna  Miller (⭐️3.72)
 <!-- GOODREADS-LIST:END -->
 
 ---
