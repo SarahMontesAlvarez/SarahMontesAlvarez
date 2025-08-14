@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Duma Key](https://www.goodreads.com/review/show/3845143535?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.97)
 - [Hearts in Atlantis](https://www.goodreads.com/review/show/7796410002?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.86)
 - [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.91)
-- [A Dance of Lies](https://www.goodreads.com/review/show/7827506742?utm_medium=api&utm_source=rss) by Brittney Arena (⭐️3.92)
+- [A Dance of Lies](https://www.goodreads.com/review/show/7827506742?utm_medium=api&utm_source=rss) by Brittney Arena (⭐️3.91)
 - [The Long Walk](https://www.goodreads.com/review/show/7791545667?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
