@@ -34,7 +34,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.21)
+- [What Moves the Dead (Sworn Soldier, #1)](https://www.goodreads.com/review/show/7833073116?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.85)
+- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.2)
 - [The Woodlanders](https://www.goodreads.com/review/show/7173315604?utm_medium=api&utm_source=rss) by Thomas Hardy (⭐️3.88)
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Duma Key](https://www.goodreads.com/review/show/3845143535?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.97)
 - [Hearts in Atlantis](https://www.goodreads.com/review/show/7796410002?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.86)
 - [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.91)
-- [A Dance of Lies](https://www.goodreads.com/review/show/7827506742?utm_medium=api&utm_source=rss) by Brittney Arena (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
 ---
