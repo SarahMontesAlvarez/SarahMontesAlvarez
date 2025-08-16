@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
 - [What Moves the Dead (Sworn Soldier, #1)](https://www.goodreads.com/review/show/7833073116?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.85)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.2)
+- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.21)
 - [The Woodlanders](https://www.goodreads.com/review/show/7173315604?utm_medium=api&utm_source=rss) by Thomas Hardy (⭐️3.88)
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
