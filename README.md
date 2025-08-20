@@ -33,6 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.37)
+- [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7846405507?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.78)
+- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️3.93)
 - [Island of Glass (The Guardians Trilogy, #3)](https://www.goodreads.com/review/show/4384926037?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.15)
 - [Stars of Fortune (The Guardians Trilogy, #1)](https://www.goodreads.com/review/show/4384916732?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.95)
 - [Bay of Sighs (The Guardians Trilogy, #2)](https://www.goodreads.com/review/show/7837412218?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.07)
@@ -40,9 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
 - [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.19)
 - [The Woodlanders](https://www.goodreads.com/review/show/7173315604?utm_medium=api&utm_source=rss) by Thomas Hardy (⭐️3.88)
-- [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
-- [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
-- [Hollow Court (The Lochlann Deception #1)](https://www.goodreads.com/review/show/7753549159?utm_medium=api&utm_source=rss) by Robin D. Mahle (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 ---
