@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Bay of Sighs (The Guardians Trilogy, #2)](https://www.goodreads.com/review/show/7837412218?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.07)
 - [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.19)
+- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.2)
 - [The Woodlanders](https://www.goodreads.com/review/show/7173315604?utm_medium=api&utm_source=rss) by Thomas Hardy (⭐️3.88)
 - [Essex Dogs (Essex Dogs, #1)](https://www.goodreads.com/review/show/7657395949?utm_medium=api&utm_source=rss) by Dan Jones (⭐️3.82)
 - [When the Moon Hatched (Moonfall, #1)](https://www.goodreads.com/review/show/7745150556?utm_medium=api&utm_source=rss) by Sarah A. Parker (⭐️3.97)
