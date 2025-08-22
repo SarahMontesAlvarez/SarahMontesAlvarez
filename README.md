@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Stars of Fortune (The Guardians Trilogy, #1)](https://www.goodreads.com/review/show/4384916732?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.95)
 - [Bay of Sighs (The Guardians Trilogy, #2)](https://www.goodreads.com/review/show/7837412218?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.07)
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.15)
+- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ---
