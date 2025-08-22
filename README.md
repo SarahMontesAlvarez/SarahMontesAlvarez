@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Justinian’s Flea: Plague, Empire, and the Birth of Europe](https://www.goodreads.com/review/show/7852659706?utm_medium=api&utm_source=rss) by William Rosen (⭐️3.68)
 - [London](https://www.goodreads.com/review/show/7851638738?utm_medium=api&utm_source=rss) by Edward Rutherford (⭐️4.14)
 - [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
 - [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.36)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Stars of Fortune (The Guardians Trilogy, #1)](https://www.goodreads.com/review/show/4384916732?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.95)
 - [Bay of Sighs (The Guardians Trilogy, #2)](https://www.goodreads.com/review/show/7837412218?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.07)
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7827519397?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ---
