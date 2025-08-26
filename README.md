@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.29)
+- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.28)
 - [Shadow Music (Highlands' Lairds, #3)](https://www.goodreads.com/review/show/7856785535?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️3.89)
 - [Justinian’s Flea: Plague, Empire, and the Birth of Europe](https://www.goodreads.com/review/show/7852659706?utm_medium=api&utm_source=rss) by William Rosen (⭐️3.67)
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
