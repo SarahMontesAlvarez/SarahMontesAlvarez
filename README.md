@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
 - [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.37)
 - [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7846405507?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.76)
-- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️3.98)
+- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 ---
