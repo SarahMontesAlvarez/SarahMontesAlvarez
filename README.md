@@ -40,9 +40,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
 - [London](https://www.goodreads.com/review/show/7851638738?utm_medium=api&utm_source=rss) by Edward Rutherford (⭐️4.14)
 - [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
-- [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.36)
-- [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7846405507?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.65)
-- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️3.99)
+- [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.34)
+- [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7846405507?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.62)
+- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ---
