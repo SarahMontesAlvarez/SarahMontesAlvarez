@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Regulators](https://www.goodreads.com/review/show/7879490520?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️3.74)
+- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/7879489563?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.33)
 - [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.34)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.26)
 - [Shadow Music (Highlands' Lairds, #3)](https://www.goodreads.com/review/show/7856785535?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️3.89)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [London](https://www.goodreads.com/review/show/7851638738?utm_medium=api&utm_source=rss) by Edward Rutherford (⭐️4.14)
 - [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
 - [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.34)
-- [The Strength of the Few (Hierarchy, #2)](https://www.goodreads.com/review/show/7846405507?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.62)
-- [Days You Were Mine](https://www.goodreads.com/review/show/7846405154?utm_medium=api&utm_source=rss) by Clare Leslie Hall (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 ---
