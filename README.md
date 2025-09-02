@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Regulators](https://www.goodreads.com/review/show/7879490520?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️3.74)
-- [Tress of the Emerald Sea](https://www.goodreads.com/review/show/7879489563?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.33)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.33)
-- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.26)
-- [Shadow Music (Highlands' Lairds, #3)](https://www.goodreads.com/review/show/7856785535?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️3.89)
-- [Justinian’s Flea: Plague, Empire, and the Birth of Europe](https://www.goodreads.com/review/show/7852659706?utm_medium=api&utm_source=rss) by William Rosen (⭐️3.68)
+- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.97)
+- [The Fourth Princess: A Gothic Novel of Old Shanghai](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️)
+- [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️5)
+- [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.22)
+- [Fallen City (Fallen City Duology, #1)](https://www.goodreads.com/review/show/7884042775?utm_medium=api&utm_source=rss) by Adrienne Young (⭐️4)
+- [I, Medusa](https://www.goodreads.com/review/show/7884040767?utm_medium=api&utm_source=rss) by Ayana Gray (⭐️4.31)
+- [Alchemy of Secrets](https://www.goodreads.com/review/show/7884040644?utm_medium=api&utm_source=rss) by Stephanie Garber (⭐️4.41)
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
-- [London](https://www.goodreads.com/review/show/7851638738?utm_medium=api&utm_source=rss) by Edward Rutherford (⭐️4.14)
-- [Joyland](https://www.goodreads.com/review/show/3651489682?utm_medium=api&utm_source=rss) by Stephen        King (⭐️3.9)
-- [The Mist Thief (The Ever Seas, #3)](https://www.goodreads.com/review/show/7846405908?utm_medium=api&utm_source=rss) by L.J. Andrews (⭐️4.34)
+- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.25)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 ---
