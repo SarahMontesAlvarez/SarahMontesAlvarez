@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [The Regulators](https://www.goodreads.com/review/show/7879490520?utm_medium=api&utm_source=rss) by Richard  Bachman (⭐️3.74)
 - [Tress of the Emerald Sea](https://www.goodreads.com/review/show/7879489563?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.33)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.34)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.33)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.26)
 - [Shadow Music (Highlands' Lairds, #3)](https://www.goodreads.com/review/show/7856785535?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️3.89)
 - [Justinian’s Flea: Plague, Empire, and the Birth of Europe](https://www.goodreads.com/review/show/7852659706?utm_medium=api&utm_source=rss) by William Rosen (⭐️3.68)
