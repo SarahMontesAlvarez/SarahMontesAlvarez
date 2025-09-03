@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Alchemy of Secrets](https://www.goodreads.com/review/show/7884040644?utm_medium=api&utm_source=rss) by Stephanie Garber (⭐️4.4)
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.25)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.33)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.34)
 <!-- GOODREADS-LIST:END -->
 
 ---
