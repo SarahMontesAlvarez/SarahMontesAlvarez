@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.97)
+- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.98)
 - [The Fourth Princess: A Gothic Novel of Old Shanghai](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️)
 - [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️5)
 - [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.24)
