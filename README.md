@@ -39,10 +39,10 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.21)
 - [Fallen City (Fallen City Duology, #1)](https://www.goodreads.com/review/show/7884042775?utm_medium=api&utm_source=rss) by Adrienne Young (⭐️3.99)
 - [I, Medusa](https://www.goodreads.com/review/show/7884040767?utm_medium=api&utm_source=rss) by Ayana Gray (⭐️4.32)
-- [Alchemy of Secrets](https://www.goodreads.com/review/show/7884040644?utm_medium=api&utm_source=rss) by Stephanie Garber (⭐️4.43)
+- [Alchemy of Secrets](https://www.goodreads.com/review/show/7884040644?utm_medium=api&utm_source=rss) by Stephanie Garber (⭐️4.42)
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.24)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.3)
+- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
 ---
