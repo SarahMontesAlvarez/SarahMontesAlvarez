@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The House in the Cerulean Sea (Cerulean Chronicles, #1)](https://www.goodreads.com/review/show/7889974789?utm_medium=api&utm_source=rss) by T.J. Klune (⭐️4.36)
+- [Somewhere Beyond the Sea (Cerulean Chronicles, #2)](https://www.goodreads.com/review/show/7889978208?utm_medium=api&utm_source=rss) by T.J. Klune (⭐️4.13)
 - [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.97)
 - [The Fourth Princess: A Gothic Novel of Old Shanghai](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️)
 - [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️5)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [I, Medusa](https://www.goodreads.com/review/show/7884040767?utm_medium=api&utm_source=rss) by Ayana Gray (⭐️4.32)
 - [Alchemy of Secrets](https://www.goodreads.com/review/show/7884040644?utm_medium=api&utm_source=rss) by Stephanie Garber (⭐️4.41)
 - [The Wedding (Lairds' Fiancées, #2)](https://www.goodreads.com/review/show/7856783197?utm_medium=api&utm_source=rss) by Julie Garwood (⭐️4.14)
-- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.24)
-- [The Secret Book Society](https://www.goodreads.com/review/show/7668361786?utm_medium=api&utm_source=rss) by Madeline  Martin (⭐️4.29)
 <!-- GOODREADS-LIST:END -->
 
 ---
