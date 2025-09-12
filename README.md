@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Fourth Princess: A Gothic Novel of Old Shanghai](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️5)
 - [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️4.89)
 - [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.17)
-- [Fallen City (Fallen City Duology, #1)](https://www.goodreads.com/review/show/7884042775?utm_medium=api&utm_source=rss) by Adrienne Young (⭐️3.97)
+- [Fallen City (Fallen City Duology, #1)](https://www.goodreads.com/review/show/7884042775?utm_medium=api&utm_source=rss) by Adrienne Young (⭐️3.98)
 - [I, Medusa](https://www.goodreads.com/review/show/7884040767?utm_medium=api&utm_source=rss) by Ayana Gray (⭐️4.26)
 <!-- GOODREADS-LIST:END -->
 
