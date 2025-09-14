@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.03)
 - [The Henna Artist (The Jaipur Trilogy, #1)](https://www.goodreads.com/review/show/7912546743?utm_medium=api&utm_source=rss) by Alka Joshi (⭐️4.13)
 - [Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology](https://www.goodreads.com/review/show/7899286743?utm_medium=api&utm_source=rss) by Cory O&apos;Brien (⭐️3.97)
 - [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7884029118?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️3.95)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Fourth Princess](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️5)
 - [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️4.89)
 - [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.17)
-- [Fallen City (Fallen City Duology, #1)](https://www.goodreads.com/review/show/7884042775?utm_medium=api&utm_source=rss) by Adrienne Young (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
 ---
