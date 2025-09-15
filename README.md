@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.04)
+- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.03)
 - [The Henna Artist (The Jaipur Trilogy, #1)](https://www.goodreads.com/review/show/7912546743?utm_medium=api&utm_source=rss) by Alka Joshi (⭐️4.13)
 - [Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology](https://www.goodreads.com/review/show/7899286743?utm_medium=api&utm_source=rss) by Cory O&apos;Brien (⭐️3.97)
 - [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7884029118?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️3.95)
