@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Six of Crows (Six of Crows, #1)](https://www.goodreads.com/review/show/7917041858?utm_medium=api&utm_source=rss) by Leigh Bardugo (⭐️4.63)
-- [I, Medusa](https://www.goodreads.com/review/show/7917040440?utm_medium=api&utm_source=rss) by Ayana Gray (⭐️4.28)
-- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.03)
-- [The Henna Artist (The Jaipur Trilogy, #1)](https://www.goodreads.com/review/show/7912546743?utm_medium=api&utm_source=rss) by Alka Joshi (⭐️4.13)
-- [Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology](https://www.goodreads.com/review/show/7899286743?utm_medium=api&utm_source=rss) by Cory O&apos;Brien (⭐️3.97)
-- [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7884029118?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️3.95)
-- [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
-- [The House in the Cerulean Sea (Cerulean Chronicles, #1)](https://www.goodreads.com/review/show/7889974789?utm_medium=api&utm_source=rss) by T.J. Klune (⭐️4.36)
-- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.01)
-- [The Fourth Princess](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️5)
+- [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.82)
+- [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.3)
+- [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.98)
+- [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/7917127433?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4)
+- [Take It From Me: An Agent's Guide to Building a Nonfiction Writing Career from Scratch](https://www.goodreads.com/review/show/7917127360?utm_medium=api&utm_source=rss) by Alia Hanna Habib (⭐️5)
+- [A Ferry Merry Christmas](https://www.goodreads.com/review/show/7917123186?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.25)
+- [The Christmas Ring](https://www.goodreads.com/review/show/7917123099?utm_medium=api&utm_source=rss) by Karen Kingsbury (⭐️4.08)
+- [Bloody Black](https://www.goodreads.com/review/show/7917106139?utm_medium=api&utm_source=rss) by Rhiannon Hargadon (⭐️5)
+- [100 Train Journeys of a Lifetime: The World's Ultimate Rides (100 of a Lifetime)](https://www.goodreads.com/review/show/7917103172?utm_medium=api&utm_source=rss) by Everett Potter (⭐️)
+- [Ship of Spells (Deluxe Limited Edition)](https://www.goodreads.com/review/show/7917100426?utm_medium=api&utm_source=rss) by H. Leighton Dickson (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
 ---
