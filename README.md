@@ -33,13 +33,13 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.03)
+- [The Possession of Alba Díaz](https://www.goodreads.com/review/show/7915001780?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️4.04)
 - [The Henna Artist (The Jaipur Trilogy, #1)](https://www.goodreads.com/review/show/7912546743?utm_medium=api&utm_source=rss) by Alka Joshi (⭐️4.13)
 - [Zeus Grants Stupid Wishes: A No-Bullshit Guide to World Mythology](https://www.goodreads.com/review/show/7899286743?utm_medium=api&utm_source=rss) by Cory O&apos;Brien (⭐️3.97)
 - [The Society of Unknowable Objects](https://www.goodreads.com/review/show/7884029118?utm_medium=api&utm_source=rss) by Gareth  Brown (⭐️3.95)
 - [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
 - [The House in the Cerulean Sea (Cerulean Chronicles, #1)](https://www.goodreads.com/review/show/7889974789?utm_medium=api&utm_source=rss) by T.J. Klune (⭐️4.36)
-- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.02)
+- [The Academy](https://www.goodreads.com/review/show/7884066339?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.01)
 - [The Fourth Princess](https://www.goodreads.com/review/show/7884059020?utm_medium=api&utm_source=rss) by Janie Chang (⭐️5)
 - [Village Life: Discover Tuscan-Inspired Hospitality and Intentional Living](https://www.goodreads.com/review/show/7884056533?utm_medium=api&utm_source=rss) by Angela Correll (⭐️4.89)
 - [Mockingbird Court (Shady Hollow, #6)](https://www.goodreads.com/review/show/7884052424?utm_medium=api&utm_source=rss) by Juneau Black (⭐️4.17)
