@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.29)
 - [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.82)
 - [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.33)
-- [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.98)
+- [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.99)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/7917127433?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4)
 - [Take It From Me: An Agent's Guide to Building a Nonfiction Writing Career from Scratch](https://www.goodreads.com/review/show/7917127360?utm_medium=api&utm_source=rss) by Alia Hanna Habib (⭐️5)
 <!-- GOODREADS-LIST:END -->
