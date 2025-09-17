@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Spellcaster (Weatherstone College, #1)](https://www.goodreads.com/review/show/7917206934?utm_medium=api&utm_source=rss) by Jaymin Eve (⭐️3.9)
 - [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.29)
 - [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.81)
-- [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.33)
+- [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.32)
 - [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.97)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/7917127433?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4)
 <!-- GOODREADS-LIST:END -->
