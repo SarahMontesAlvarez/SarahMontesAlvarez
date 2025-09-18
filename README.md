@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
 - [Thomas Cromwell: A Life](https://www.goodreads.com/review/show/7920242980?utm_medium=api&utm_source=rss) by Diarmaid MacCulloch (⭐️4.08)
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️3.98)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.81)
 - [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.33)
 - [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.96)
-- [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/7917127433?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ---
