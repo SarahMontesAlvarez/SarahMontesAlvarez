@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.01)
 - [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.33)
 - [Spellcaster (Weatherstone College, #1)](https://www.goodreads.com/review/show/7917206934?utm_medium=api&utm_source=rss) by Jaymin Eve (⭐️3.9)
-- [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.22)
+- [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.18)
 - [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.82)
 - [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.33)
 - [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.96)
