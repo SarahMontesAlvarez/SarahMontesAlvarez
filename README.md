@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.83)
 - [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
 - [Thomas Cromwell: A Life](https://www.goodreads.com/review/show/7920242980?utm_medium=api&utm_source=rss) by Diarmaid MacCulloch (⭐️4.08)
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.18)
 - [Remain](https://www.goodreads.com/review/show/7917169438?utm_medium=api&utm_source=rss) by Nicholas Sparks (⭐️3.82)
 - [Canticle](https://www.goodreads.com/review/show/7917169377?utm_medium=api&utm_source=rss) by Janet Rich Edwards (⭐️4.33)
-- [The Second Story Bookshop](https://www.goodreads.com/review/show/7917161079?utm_medium=api&utm_source=rss) by Denise Hunter (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
 
 ---
