@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.43)
+- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.42)
 - [The Mirror (The Lost Bride Trilogy, #2)](https://www.goodreads.com/review/show/7936476211?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.98)
 - [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.83)
 - [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
