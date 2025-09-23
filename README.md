@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
+- [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
+- [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.83)
 - [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.42)
 - [The Mirror (The Lost Bride Trilogy, #2)](https://www.goodreads.com/review/show/7936476211?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.98)
-- [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.83)
 - [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
-- [Thomas Cromwell: A Life](https://www.goodreads.com/review/show/7920242980?utm_medium=api&utm_source=rss) by Diarmaid MacCulloch (⭐️4.08)
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.06)
 - [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.24)
 - [Spellcaster (Weatherstone College, #1)](https://www.goodreads.com/review/show/7917206934?utm_medium=api&utm_source=rss) by Jaymin Eve (⭐️3.92)
-- [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
 ---
