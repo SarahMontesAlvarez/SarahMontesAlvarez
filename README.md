@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.06)
 - [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.21)
-- [Spellcaster (Weatherstone College, #1)](https://www.goodreads.com/review/show/7917206934?utm_medium=api&utm_source=rss) by Jaymin Eve (⭐️3.92)
+- [Spellcaster (Weatherstone College, #1)](https://www.goodreads.com/review/show/7917206934?utm_medium=api&utm_source=rss) by Jaymin Eve (⭐️3.91)
 - [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 
