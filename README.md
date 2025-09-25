@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.06)
-- [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.24)
+- [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
 
 ---
