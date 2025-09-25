@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.05)
-- [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.55)
+- [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.57)
 - [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
 - [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.83)
