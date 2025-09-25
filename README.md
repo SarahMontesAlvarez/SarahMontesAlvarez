@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4.03)
 - [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.62)
 - [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness](https://www.goodreads.com/review/show/7925513477?utm_medium=api&utm_source=rss) by Epictetus (⭐️4.45)
 - [The Year of Magical Thinking](https://www.goodreads.com/review/show/7917219903?utm_medium=api&utm_source=rss) by Joan Didion (⭐️3.94)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.06)
-- [Dracula](https://www.goodreads.com/review/show/7917211550?utm_medium=api&utm_source=rss) by Bram Stoker (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
 
 ---
