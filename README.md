@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Seven Deadly Thorns](https://www.goodreads.com/review/show/7956055935?utm_medium=api&utm_source=rss) by Amber  Hamilton (⭐️4.16)
 - [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
 - [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
-- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️3.99)
+- [Circle of Days](https://www.goodreads.com/review/show/7443962148?utm_medium=api&utm_source=rss) by Ken Follett (⭐️4)
 - [The Mirror (The Lost Bride Trilogy, #2)](https://www.goodreads.com/review/show/7936476211?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.98)
 - [The Glassy, Burning Floor of Hell](https://www.goodreads.com/review/show/7950375831?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️4.06)
 - [Company of Liars](https://www.goodreads.com/review/show/7946699395?utm_medium=api&utm_source=rss) by Karen Maitland (⭐️3.85)
