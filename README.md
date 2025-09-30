@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.56)
 - [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
 - [We All Live Here](https://www.goodreads.com/review/show/7170278362?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️3.82)
-- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.39)
+- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 ---
