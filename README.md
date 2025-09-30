@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Mirror (The Lost Bride Trilogy, #2)](https://www.goodreads.com/review/show/7936476211?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.98)
 - [The Glassy, Burning Floor of Hell](https://www.goodreads.com/review/show/7950375831?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️4.06)
 - [Company of Liars](https://www.goodreads.com/review/show/7946699395?utm_medium=api&utm_source=rss) by Karen Maitland (⭐️3.85)
-- [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.51)
+- [Agnes Aubert's Mystical Cat Shelter](https://www.goodreads.com/review/show/7940532379?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.5)
 - [The House of Dudley: A New History of Tudor England](https://www.goodreads.com/review/show/7899287487?utm_medium=api&utm_source=rss) by Joanne Paul (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
