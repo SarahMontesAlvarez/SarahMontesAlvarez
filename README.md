@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [On Wings of Blood (Bloodwing Academy, #1)](https://www.goodreads.com/review/show/7956058467?utm_medium=api&utm_source=rss) by Briar Boleyn (⭐️4.08)
+- [On Wings of Blood (Bloodwing Academy, #1)](https://www.goodreads.com/review/show/7956058467?utm_medium=api&utm_source=rss) by Briar Boleyn (⭐️4.09)
 - [Seven Deadly Thorns](https://www.goodreads.com/review/show/7956055935?utm_medium=api&utm_source=rss) by Amber  Hamilton (⭐️4.16)
 - [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
 - [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
