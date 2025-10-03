@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Midnight Book Club (Midnights on the Square)](https://www.goodreads.com/review/show/7959818132?utm_medium=api&utm_source=rss) by Emily W. Andersen (⭐️3.67)
+- [The Midnight Book Club (Midnights on the Square)](https://www.goodreads.com/review/show/7959818132?utm_medium=api&utm_source=rss) by Emily W. Andersen (⭐️3.72)
 - [No More Boring Bible Study: Why Taking Scripture Seriously Is Easier and More Exciting Than You Think](https://www.goodreads.com/review/show/7959816726?utm_medium=api&utm_source=rss) by Faith Womack (⭐️4.67)
 - [National Geographic The Photographs: Iconic Images from National Geographic](https://www.goodreads.com/review/show/7959815740?utm_medium=api&utm_source=rss) by National Geographic (⭐️5)
 - [The Daily Artist's Way: 366 Meditations for Creative Living](https://www.goodreads.com/review/show/7959807962?utm_medium=api&utm_source=rss) by Julia Cameron (⭐️4.5)
