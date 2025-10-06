@@ -42,7 +42,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Once and Future Queen (The Lives of Guinevere, #1)](https://www.goodreads.com/review/show/7959804276?utm_medium=api&utm_source=rss) by Paula Lafferty (⭐️4.31)
 - [How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day](https://www.goodreads.com/review/show/7959802231?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️)
 - [Victory Is Yours: 100 Devotions for Overcoming Life’s Challenges](https://www.goodreads.com/review/show/7959800990?utm_medium=api&utm_source=rss) by Jonathan Evans (⭐️)
-- [The Biblio Diet: Live Long, Master Metabolism, Reduce Pain, Fight Depression, and Conquer Cancer With Healing Secrets From the Bible](https://www.goodreads.com/review/show/7959798818?utm_medium=api&utm_source=rss) by Jordan Rubin (⭐️4.51)
+- [The Biblio Diet: Live Long, Master Metabolism, Reduce Pain, Fight Depression, and Conquer Cancer With Healing Secrets From the Bible](https://www.goodreads.com/review/show/7959798818?utm_medium=api&utm_source=rss) by Jordan Rubin (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
 
 ---
