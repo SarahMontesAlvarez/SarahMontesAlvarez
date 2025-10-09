@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [National Geographic The Photographs: Iconic Images from National Geographic](https://www.goodreads.com/review/show/7959815740?utm_medium=api&utm_source=rss) by National Geographic (⭐️5)
 - [The Daily Artist's Way: 366 Meditations for Creative Living](https://www.goodreads.com/review/show/7959807962?utm_medium=api&utm_source=rss) by Julia Cameron (⭐️4.5)
 - [Future Boy: Back to the Future and My Journey Through the Space-Time Continuum](https://www.goodreads.com/review/show/7959806897?utm_medium=api&utm_source=rss) by Michael J. Fox (⭐️4.15)
-- [The Moonshine Women](https://www.goodreads.com/review/show/7959805155?utm_medium=api&utm_source=rss) by Michelle Collins Anderson (⭐️4.18)
+- [The Moonshine Women](https://www.goodreads.com/review/show/7959805155?utm_medium=api&utm_source=rss) by Michelle Collins Anderson (⭐️4.17)
 - [The Once and Future Queen (The Lives of Guinevere, #1)](https://www.goodreads.com/review/show/7959804276?utm_medium=api&utm_source=rss) by Paula Lafferty (⭐️4.27)
 - [How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day](https://www.goodreads.com/review/show/7959802231?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4)
 - [Victory Is Yours: 100 Devotions for Overcoming Life’s Challenges](https://www.goodreads.com/review/show/7959800990?utm_medium=api&utm_source=rss) by Jonathan Evans (⭐️)
