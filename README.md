@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Grendel](https://www.goodreads.com/review/show/7978480947?utm_medium=api&utm_source=rss) by John Gardner (⭐️3.68)
-- [The Midnight Book Club](https://www.goodreads.com/review/show/7959818132?utm_medium=api&utm_source=rss) by Emily W. Andersen (⭐️3.79)
-- [No More Boring Bible Study: Why Taking Scripture Seriously Is Easier and More Exciting Than You Think](https://www.goodreads.com/review/show/7959816726?utm_medium=api&utm_source=rss) by Faith Womack (⭐️4.67)
-- [National Geographic The Photographs: Iconic Images from National Geographic](https://www.goodreads.com/review/show/7959815740?utm_medium=api&utm_source=rss) by National Geographic (⭐️5)
-- [The Daily Artist's Way: 366 Meditations for Creative Living](https://www.goodreads.com/review/show/7959807962?utm_medium=api&utm_source=rss) by Julia Cameron (⭐️4.5)
-- [Future Boy: Back to the Future and My Journey Through the Space-Time Continuum](https://www.goodreads.com/review/show/7959806897?utm_medium=api&utm_source=rss) by Michael J. Fox (⭐️4.15)
-- [The Moonshine Women](https://www.goodreads.com/review/show/7959805155?utm_medium=api&utm_source=rss) by Michelle Collins Anderson (⭐️4.17)
-- [The Once and Future Queen (The Lives of Guinevere, #1)](https://www.goodreads.com/review/show/7959804276?utm_medium=api&utm_source=rss) by Paula Lafferty (⭐️4.27)
-- [How to Live a Meaningful Life: Using Design Thinking to Unlock Purpose, Joy, and Flow Every Day](https://www.goodreads.com/review/show/7959802231?utm_medium=api&utm_source=rss) by Bill Burnett (⭐️4)
-- [Victory Is Yours: 100 Devotions for Overcoming Life’s Challenges](https://www.goodreads.com/review/show/7959800990?utm_medium=api&utm_source=rss) by Jonathan Evans (⭐️)
+- [The Ministry of Time](https://www.goodreads.com/review/show/7979747941?utm_medium=api&utm_source=rss) by Kaliane Bradley (⭐️3.53)
+- [Gateways to Abomination: Collected Short Fiction](https://www.goodreads.com/review/show/7979746525?utm_medium=api&utm_source=rss) by Matthew M. Bartlett (⭐️3.91)
+- [A Christmas Reborn: A New Era In Scrooge's Redemption](https://www.goodreads.com/review/show/7979745664?utm_medium=api&utm_source=rss) by Scott A.  Johnson (⭐️)
+- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
+- [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
+- [Book Lovers](https://www.goodreads.com/review/show/7979725536?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.08)
+- [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.07)
+- [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/7979725386?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.66)
+- [The Little Wartime Library](https://www.goodreads.com/review/show/7979724915?utm_medium=api&utm_source=rss) by Kate          Thompson (⭐️4.2)
+- [The Bookshop on the Corner (Kirrinfief, #1)](https://www.goodreads.com/review/show/7979724866?utm_medium=api&utm_source=rss) by Jenny Colgan (⭐️3.8)
 <!-- GOODREADS-LIST:END -->
 
 ---
