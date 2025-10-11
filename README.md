@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Red Lily (In the Garden, #3)](https://www.goodreads.com/review/show/4384916132?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.08)
 - [The Ministry of Time](https://www.goodreads.com/review/show/7979747941?utm_medium=api&utm_source=rss) by Kaliane Bradley (⭐️3.53)
 - [Gateways to Abomination: Collected Short Fiction](https://www.goodreads.com/review/show/7979746525?utm_medium=api&utm_source=rss) by Matthew M. Bartlett (⭐️3.91)
 - [A Christmas Reborn: A New Era In Scrooge's Redemption](https://www.goodreads.com/review/show/7979745664?utm_medium=api&utm_source=rss) by Scott A.  Johnson (⭐️)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.06)
 - [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/7979725386?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.66)
 - [The Little Wartime Library](https://www.goodreads.com/review/show/7979724915?utm_medium=api&utm_source=rss) by Kate          Thompson (⭐️4.2)
-- [The Bookshop on the Corner (Kirrinfief, #1)](https://www.goodreads.com/review/show/7979724866?utm_medium=api&utm_source=rss) by Jenny Colgan (⭐️3.8)
 <!-- GOODREADS-LIST:END -->
 
 ---
