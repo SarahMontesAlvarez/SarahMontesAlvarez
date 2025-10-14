@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
+- [Grendel](https://www.goodreads.com/review/show/7978480947?utm_medium=api&utm_source=rss) by John Gardner (⭐️3.68)
+- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [Red Lily (In the Garden, #3)](https://www.goodreads.com/review/show/4384916132?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.08)
 - [The Ministry of Time](https://www.goodreads.com/review/show/7979747941?utm_medium=api&utm_source=rss) by Kaliane Bradley (⭐️3.53)
 - [Gateways to Abomination: Collected Short Fiction](https://www.goodreads.com/review/show/7979746525?utm_medium=api&utm_source=rss) by Matthew M. Bartlett (⭐️3.91)
 - [A Christmas Reborn: A New Era In Scrooge's Redemption](https://www.goodreads.com/review/show/7979745664?utm_medium=api&utm_source=rss) by Scott A.  Johnson (⭐️)
-- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
 - [Book Lovers](https://www.goodreads.com/review/show/7979725536?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.08)
 - [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.04)
-- [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/7979725386?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.66)
-- [The Little Wartime Library](https://www.goodreads.com/review/show/7979724915?utm_medium=api&utm_source=rss) by Kate          Thompson (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
 ---
