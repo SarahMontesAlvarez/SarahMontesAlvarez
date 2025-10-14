@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
 - [Book Lovers](https://www.goodreads.com/review/show/7979725536?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.08)
-- [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.05)
+- [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.04)
 - [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/7979725386?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐️3.66)
 - [The Little Wartime Library](https://www.goodreads.com/review/show/7979724915?utm_medium=api&utm_source=rss) by Kate          Thompson (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
