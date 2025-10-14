@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Ministry of Time](https://www.goodreads.com/review/show/7979747941?utm_medium=api&utm_source=rss) by Kaliane Bradley (⭐️3.53)
 - [Gateways to Abomination: Collected Short Fiction](https://www.goodreads.com/review/show/7979746525?utm_medium=api&utm_source=rss) by Matthew M. Bartlett (⭐️3.91)
 - [A Christmas Reborn: A New Era In Scrooge's Redemption](https://www.goodreads.com/review/show/7979745664?utm_medium=api&utm_source=rss) by Scott A.  Johnson (⭐️)
-- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
+- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.06)
 - [Song for the Unraveling of the World: Stories](https://www.goodreads.com/review/show/7951201644?utm_medium=api&utm_source=rss) by Brian Evenson (⭐️3.88)
 - [Book Lovers](https://www.goodreads.com/review/show/7979725536?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.08)
 - [Ladies in Hating](https://www.goodreads.com/review/show/7979725485?utm_medium=api&utm_source=rss) by Alexandra Vasti (⭐️4.04)
