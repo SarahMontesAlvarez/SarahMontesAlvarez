@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.4)
+- [The Revelation Answer Book: 125 Common Questions People Ask About Earth's Final Days](https://www.goodreads.com/review/show/7995702732?utm_medium=api&utm_source=rss) by Mark Hitchcock (⭐️)
+- [Guided: The Secret Path to an Illuminated Life](https://www.goodreads.com/review/show/7995702506?utm_medium=api&utm_source=rss) by Laura Lynne Jackson (⭐️4.71)
+- [Brave Woman, Mighty God: 30 Things You Can Do](https://www.goodreads.com/review/show/7995702345?utm_medium=api&utm_source=rss) by Laura L.  Smith (⭐️4.44)
 - [The Time Hop Coffee Shop](https://www.goodreads.com/review/show/7995699801?utm_medium=api&utm_source=rss) by Phaedra Patrick (⭐️3.76)
 - [On Morrison](https://www.goodreads.com/review/show/7995699512?utm_medium=api&utm_source=rss) by Namwali Serpell (⭐️5)
 - [Knight on Time](https://www.goodreads.com/review/show/7995695331?utm_medium=api&utm_source=rss) by Randy B. Batten (⭐️)
 - [Queen Esther](https://www.goodreads.com/review/show/7995694182?utm_medium=api&utm_source=rss) by John Irving (⭐️3.09)
 - [When They Burned the Butterfly](https://www.goodreads.com/review/show/7995692457?utm_medium=api&utm_source=rss) by Wen-yi Lee (⭐️3.99)
 - [The Hong Kong Widow](https://www.goodreads.com/review/show/7995692344?utm_medium=api&utm_source=rss) by Kristen  Loesch (⭐️4.15)
-- [The Witch and the Huntress](https://www.goodreads.com/review/show/7995692089?utm_medium=api&utm_source=rss) by Luna McNamara (⭐️4.6)
-- [Fallen Gods (Fallen Gods, #1)](https://www.goodreads.com/review/show/7995690125?utm_medium=api&utm_source=rss) by Rachel Van Dyken (⭐️4.5)
-- [The Backyard Bird Chronicles](https://www.goodreads.com/review/show/7995688837?utm_medium=api&utm_source=rss) by Amy Tan (⭐️4.01)
-- [Songbird of the Sorrows (Myths of the Empyrieos)](https://www.goodreads.com/review/show/7995524094?utm_medium=api&utm_source=rss) by Braidee Otto (⭐️5)
 <!-- GOODREADS-LIST:END -->
 
 ---
