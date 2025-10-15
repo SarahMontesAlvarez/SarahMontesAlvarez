@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
 - [Grendel](https://www.goodreads.com/review/show/7978480947?utm_medium=api&utm_source=rss) by John Gardner (⭐️3.68)
-- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.06)
+- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.05)
 - [Red Lily (In the Garden, #3)](https://www.goodreads.com/review/show/4384916132?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.08)
 - [The Ministry of Time](https://www.goodreads.com/review/show/7979747941?utm_medium=api&utm_source=rss) by Kaliane Bradley (⭐️3.53)
 - [Gateways to Abomination: Collected Short Fiction](https://www.goodreads.com/review/show/7979746525?utm_medium=api&utm_source=rss) by Matthew M. Bartlett (⭐️3.91)
