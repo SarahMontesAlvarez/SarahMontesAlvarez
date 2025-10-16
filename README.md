@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.4)
+- [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.17)
 - [The Revelation Answer Book: 125 Common Questions People Ask About Earth's Final Days](https://www.goodreads.com/review/show/7995702732?utm_medium=api&utm_source=rss) by Mark Hitchcock (⭐️)
 - [Guided: The Secret Path to an Illuminated Life](https://www.goodreads.com/review/show/7995702506?utm_medium=api&utm_source=rss) by Laura Lynne Jackson (⭐️4.71)
 - [Brave Woman, Mighty God: 30 Things You Can Do](https://www.goodreads.com/review/show/7995702345?utm_medium=api&utm_source=rss) by Laura L.  Smith (⭐️4.44)
