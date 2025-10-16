@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.16)
+- [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
 - [Half a Soul (Regency Faerie Tales, #1)](https://www.goodreads.com/review/show/7996781247?utm_medium=api&utm_source=rss) by Olivia Atwater (⭐️4.03)
 - [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.17)
 - [The Revelation Answer Book: 125 Common Questions People Ask About Earth's Final Days](https://www.goodreads.com/review/show/7995702732?utm_medium=api&utm_source=rss) by Mark Hitchcock (⭐️)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Time Hop Coffee Shop](https://www.goodreads.com/review/show/7995699801?utm_medium=api&utm_source=rss) by Phaedra Patrick (⭐️3.76)
 - [On Morrison](https://www.goodreads.com/review/show/7995699512?utm_medium=api&utm_source=rss) by Namwali Serpell (⭐️5)
 - [Knight on Time](https://www.goodreads.com/review/show/7995695331?utm_medium=api&utm_source=rss) by Randy B. Batten (⭐️)
-- [Queen Esther](https://www.goodreads.com/review/show/7995694182?utm_medium=api&utm_source=rss) by John Irving (⭐️3.08)
-- [When They Burned the Butterfly](https://www.goodreads.com/review/show/7995692457?utm_medium=api&utm_source=rss) by Wen-yi Lee (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 ---
