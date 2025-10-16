@@ -41,7 +41,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Time Hop Coffee Shop](https://www.goodreads.com/review/show/7995699801?utm_medium=api&utm_source=rss) by Phaedra Patrick (⭐️3.76)
 - [On Morrison](https://www.goodreads.com/review/show/7995699512?utm_medium=api&utm_source=rss) by Namwali Serpell (⭐️5)
 - [Knight on Time](https://www.goodreads.com/review/show/7995695331?utm_medium=api&utm_source=rss) by Randy B. Batten (⭐️)
-- [Queen Esther](https://www.goodreads.com/review/show/7995694182?utm_medium=api&utm_source=rss) by John Irving (⭐️3.09)
+- [Queen Esther](https://www.goodreads.com/review/show/7995694182?utm_medium=api&utm_source=rss) by John Irving (⭐️3.08)
 - [When They Burned the Butterfly](https://www.goodreads.com/review/show/7995692457?utm_medium=api&utm_source=rss) by Wen-yi Lee (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
