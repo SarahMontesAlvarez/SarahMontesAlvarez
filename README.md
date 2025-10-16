@@ -33,6 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Half a Soul (Regency Faerie Tales, #1)](https://www.goodreads.com/review/show/7996781247?utm_medium=api&utm_source=rss) by Olivia Atwater (⭐️4.03)
 - [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.17)
 - [The Revelation Answer Book: 125 Common Questions People Ask About Earth's Final Days](https://www.goodreads.com/review/show/7995702732?utm_medium=api&utm_source=rss) by Mark Hitchcock (⭐️)
 - [Guided: The Secret Path to an Illuminated Life](https://www.goodreads.com/review/show/7995702506?utm_medium=api&utm_source=rss) by Laura Lynne Jackson (⭐️4.71)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Knight on Time](https://www.goodreads.com/review/show/7995695331?utm_medium=api&utm_source=rss) by Randy B. Batten (⭐️)
 - [Queen Esther](https://www.goodreads.com/review/show/7995694182?utm_medium=api&utm_source=rss) by John Irving (⭐️3.09)
 - [When They Burned the Butterfly](https://www.goodreads.com/review/show/7995692457?utm_medium=api&utm_source=rss) by Wen-yi Lee (⭐️3.99)
-- [The Hong Kong Widow](https://www.goodreads.com/review/show/7995692344?utm_medium=api&utm_source=rss) by Kristen  Loesch (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
 ---
