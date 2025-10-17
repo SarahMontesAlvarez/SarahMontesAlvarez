@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Revelation Answer Book: 125 Common Questions People Ask About Earth's Final Days](https://www.goodreads.com/review/show/7995702732?utm_medium=api&utm_source=rss) by Mark Hitchcock (⭐️)
 - [Guided: The Secret Path to an Illuminated Life](https://www.goodreads.com/review/show/7995702506?utm_medium=api&utm_source=rss) by Laura Lynne Jackson (⭐️4.71)
 - [Brave Woman, Mighty God: 30 Things You Can Do](https://www.goodreads.com/review/show/7995702345?utm_medium=api&utm_source=rss) by Laura L.  Smith (⭐️4.44)
-- [The Time Hop Coffee Shop](https://www.goodreads.com/review/show/7995699801?utm_medium=api&utm_source=rss) by Phaedra Patrick (⭐️3.76)
+- [The Time Hop Coffee Shop](https://www.goodreads.com/review/show/7995699801?utm_medium=api&utm_source=rss) by Phaedra Patrick (⭐️3.75)
 - [On Morrison](https://www.goodreads.com/review/show/7995699512?utm_medium=api&utm_source=rss) by Namwali Serpell (⭐️5)
 - [Knight on Time](https://www.goodreads.com/review/show/7995695331?utm_medium=api&utm_source=rss) by Randy B. Batten (⭐️)
 <!-- GOODREADS-LIST:END -->
