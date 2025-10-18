@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.14)
+- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.13)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
 - [Half a Soul (Regency Faerie Tales, #1)](https://www.goodreads.com/review/show/7996781247?utm_medium=api&utm_source=rss) by Olivia Atwater (⭐️4.03)
 - [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️4.17)
