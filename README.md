@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [My Fair Frauds: A Novel](https://www.goodreads.com/review/show/8002806230?utm_medium=api&utm_source=rss) by Lee   Kelly (⭐️4.5)
 - [The Sun and the Starmaker](https://www.goodreads.com/review/show/8002802293?utm_medium=api&utm_source=rss) by Rachel  Griffin (⭐️4.51)
-- [Ruins](https://www.goodreads.com/review/show/8002802065?utm_medium=api&utm_source=rss) by Lily Brooks-Dalton (⭐️3.71)
+- [Ruins](https://www.goodreads.com/review/show/8002802065?utm_medium=api&utm_source=rss) by Lily Brooks-Dalton (⭐️3.88)
 - [Death Meets Cute](https://www.goodreads.com/review/show/8002787700?utm_medium=api&utm_source=rss) by J. Penner (⭐️3.36)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.14)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
