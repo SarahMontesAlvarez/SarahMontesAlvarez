@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Sun and the Starmaker](https://www.goodreads.com/review/show/8002802293?utm_medium=api&utm_source=rss) by Rachel  Griffin (⭐️4.49)
 - [Ruins](https://www.goodreads.com/review/show/8002802065?utm_medium=api&utm_source=rss) by Lily Brooks-Dalton (⭐️3.88)
 - [Death Meets Cute](https://www.goodreads.com/review/show/8002787700?utm_medium=api&utm_source=rss) by J. Penner (⭐️3.42)
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.12)
+- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.13)
 - [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
 - [Half a Soul (Regency Faerie Tales, #1)](https://www.goodreads.com/review/show/7996781247?utm_medium=api&utm_source=rss) by Olivia Atwater (⭐️4.02)
 - [Stones Still Speak: How Biblical Archaeology Illuminates the Stories You Thought You Knew](https://www.goodreads.com/review/show/7995702996?utm_medium=api&utm_source=rss) by Amanda Hope Haley (⭐️3.89)
