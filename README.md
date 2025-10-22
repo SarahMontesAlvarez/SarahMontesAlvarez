@@ -33,6 +33,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.72)
+- [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.29)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
 - [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️5)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/8012326538?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4.68)
@@ -41,8 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Ruins](https://www.goodreads.com/review/show/8002802065?utm_medium=api&utm_source=rss) by Lily Brooks-Dalton (⭐️3.88)
 - [Death Meets Cute](https://www.goodreads.com/review/show/8002787700?utm_medium=api&utm_source=rss) by J. Penner (⭐️3.38)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.12)
-- [The Long Way to a Small, Angry Planet (Wayfarers, #1)](https://www.goodreads.com/review/show/7992355983?utm_medium=api&utm_source=rss) by Becky Chambers (⭐️4.15)
-- [Half a Soul (Regency Faerie Tales, #1)](https://www.goodreads.com/review/show/7996781247?utm_medium=api&utm_source=rss) by Olivia Atwater (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
 ---
