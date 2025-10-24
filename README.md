@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
 - [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.66)
 - [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.29)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
 - [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️5)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/8012326538?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4.68)
 - [My Fair Frauds: A Novel](https://www.goodreads.com/review/show/8002806230?utm_medium=api&utm_source=rss) by Lee   Kelly (⭐️4.5)
-- [The Sun and the Starmaker](https://www.goodreads.com/review/show/8002802293?utm_medium=api&utm_source=rss) by Rachel  Griffin (⭐️4.5)
+- [The Sun and the Starmaker](https://www.goodreads.com/review/show/8002802293?utm_medium=api&utm_source=rss) by Rachel  Griffin (⭐️4.49)
 - [Ruins](https://www.goodreads.com/review/show/8002802065?utm_medium=api&utm_source=rss) by Lily Brooks-Dalton (⭐️3.89)
-- [Death Meets Cute](https://www.goodreads.com/review/show/8002787700?utm_medium=api&utm_source=rss) by J. Penner (⭐️3.36)
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.13)
+- [Death Meets Cute](https://www.goodreads.com/review/show/8002787700?utm_medium=api&utm_source=rss) by J. Penner (⭐️3.4)
 <!-- GOODREADS-LIST:END -->
 
 ---
