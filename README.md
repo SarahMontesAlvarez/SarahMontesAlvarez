@@ -33,10 +33,10 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.15)
+- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.14)
 - [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
-- [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.65)
+- [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.64)
 - [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.29)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
 - [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️5)
