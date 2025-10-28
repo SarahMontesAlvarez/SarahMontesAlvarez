@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.51)
 - [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.31)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
-- [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️5)
+- [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️3)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/8012326538?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4.68)
 - [My Fair Frauds: A Novel](https://www.goodreads.com/review/show/8002806230?utm_medium=api&utm_source=rss) by Lee   Kelly (⭐️4.17)
 - [The Sun and the Starmaker](https://www.goodreads.com/review/show/8002802293?utm_medium=api&utm_source=rss) by Rachel  Griffin (⭐️4.5)
