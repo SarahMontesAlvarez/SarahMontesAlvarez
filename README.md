@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.13)
+- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.14)
 - [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
 - [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.5)
