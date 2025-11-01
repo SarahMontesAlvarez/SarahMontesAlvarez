@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
 - [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.46)
-- [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.31)
+- [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.32)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
 - [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️4)
 - [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/8012326538?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4.68)
