@@ -33,6 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Liar](https://www.goodreads.com/review/show/3008811984?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.93)
+- [Finding the Dream (Dream Trilogy, #3)](https://www.goodreads.com/review/show/8039908418?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.09)
+- [Holding the Dream (Dream Trilogy, #2)](https://www.goodreads.com/review/show/8039907903?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.05)
 - [The Finnish Guide to Happiness](https://www.goodreads.com/review/show/8033167050?utm_medium=api&utm_source=rss) by Melanie Dower (⭐️3.91)
 - [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.14)
 - [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
@@ -40,9 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.44)
 - [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.31)
 - [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
-- [Liberty Island: A Novel](https://www.goodreads.com/review/show/8012375469?utm_medium=api&utm_source=rss) by Virginia Hume (⭐️4)
-- [9 Steps to Build a Life of Meaning: How to Unlock Your Mind, Happiness, Power, and Your Enemy's Demise](https://www.goodreads.com/review/show/8012326538?utm_medium=api&utm_source=rss) by Rick Walker (⭐️4.68)
-- [My Fair Frauds: A Novel](https://www.goodreads.com/review/show/8002806230?utm_medium=api&utm_source=rss) by Lee   Kelly (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 
 ---
