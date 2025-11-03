@@ -33,16 +33,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Liar](https://www.goodreads.com/review/show/3008811984?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.93)
-- [Finding the Dream (Dream Trilogy, #3)](https://www.goodreads.com/review/show/8039908418?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.09)
-- [Holding the Dream (Dream Trilogy, #2)](https://www.goodreads.com/review/show/8039907903?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.05)
-- [The Finnish Guide to Happiness](https://www.goodreads.com/review/show/8033167050?utm_medium=api&utm_source=rss) by Melanie Dower (⭐️3.91)
-- [The Missing Pages](https://www.goodreads.com/review/show/7917211667?utm_medium=api&utm_source=rss) by Alyson Richman (⭐️4.13)
-- [An Elderly Lady Is Up to No Good (Elderly Lady, #1)](https://www.goodreads.com/review/show/8015856787?utm_medium=api&utm_source=rss) by Helene Tursten (⭐️3.72)
-- [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
-- [Half-Light Harbor (Scottish Isles, #1)](https://www.goodreads.com/review/show/8012981492?utm_medium=api&utm_source=rss) by Samantha Young (⭐️4.43)
-- [Hollow](https://www.goodreads.com/review/show/8012967531?utm_medium=api&utm_source=rss) by Celina Myers (⭐️3.31)
-- [Flourish: The Art of Building Meaning, Joy, and Fulfillment](https://www.goodreads.com/review/show/8012377563?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐️4)
+- [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.8)
+- [The Lighthouse at the Cove](https://www.goodreads.com/review/show/8041777283?utm_medium=api&utm_source=rss) by Amy Clipston (⭐️4)
+- [The One Day You Were My Husband](https://www.goodreads.com/review/show/8041776843?utm_medium=api&utm_source=rss) by Rosie Walsh (⭐️)
+- [Queen of Faces (Queen of Faces, #1)](https://www.goodreads.com/review/show/8041774475?utm_medium=api&utm_source=rss) by Petra Lord (⭐️4.08)
+- [The Second World](https://www.goodreads.com/review/show/8041773250?utm_medium=api&utm_source=rss) by Jake Korell (⭐️)
+- [A Crown of Stars](https://www.goodreads.com/review/show/8041769777?utm_medium=api&utm_source=rss) by Shana Abe (⭐️4.25)
+- [Alcott Hall: Deluxe Limited Edition (Second Sons, 3)](https://www.goodreads.com/review/show/8041765375?utm_medium=api&utm_source=rss) by Emily Rath (⭐️4.33)
+- [The Scent of Oranges](https://www.goodreads.com/review/show/8041763974?utm_medium=api&utm_source=rss) by Kathy     George (⭐️4)
+- [Nobody's Girl: A Memoir of Surviving Abuse and Fighting for Justice](https://www.goodreads.com/review/show/8041762737?utm_medium=api&utm_source=rss) by Virginia Roberts Giuffre (⭐️4.59)
+- [Ladies in Waiting: Jane Austen's Unsung Characters](https://www.goodreads.com/review/show/8041761234?utm_medium=api&utm_source=rss) by Adriana Trigiani (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
 ---
