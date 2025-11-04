@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [The Book Woman of Troublesome Creek (The Book Woman of Troublesome Creek #1)](https://www.goodreads.com/review/show/8044978239?utm_medium=api&utm_source=rss) by Kim Michele Richardson (⭐️5)
-- [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.82)
+- [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.81)
 - [The Lighthouse at the Cove](https://www.goodreads.com/review/show/8041777283?utm_medium=api&utm_source=rss) by Amy Clipston (⭐️4)
 - [The One Day You Were My Husband](https://www.goodreads.com/review/show/8041776843?utm_medium=api&utm_source=rss) by Rosie Walsh (⭐️)
 - [Queen of Faces (Queen of Faces, #1)](https://www.goodreads.com/review/show/8041774475?utm_medium=api&utm_source=rss) by Petra Lord (⭐️4.07)
