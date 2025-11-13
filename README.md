@@ -33,8 +33,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.72)
 - [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.31)
-- [The Book Woman of Troublesome Creek (The Book Woman of Troublesome Creek #1)](https://www.goodreads.com/review/show/8044978239?utm_medium=api&utm_source=rss) by Kim Michele Richardson (⭐️4.4)
+- [The Book Woman of Troublesome Creek (The Book Woman of Troublesome Creek #1)](https://www.goodreads.com/review/show/8044978239?utm_medium=api&utm_source=rss) by Kim Michele Richardson (⭐️4.17)
 - [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.8)
 - [The Lighthouse at the Cove](https://www.goodreads.com/review/show/8041777283?utm_medium=api&utm_source=rss) by Amy Clipston (⭐️3.98)
 - [The One Day You Were My Husband](https://www.goodreads.com/review/show/8041776843?utm_medium=api&utm_source=rss) by Rosie Walsh (⭐️4.67)
@@ -42,7 +43,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Second World](https://www.goodreads.com/review/show/8041773250?utm_medium=api&utm_source=rss) by Jake Korell (⭐️4)
 - [A Crown of Stars](https://www.goodreads.com/review/show/8041769777?utm_medium=api&utm_source=rss) by Shana Abe (⭐️3.83)
 - [Alcott Hall: Deluxe Limited Edition (Second Sons, 3)](https://www.goodreads.com/review/show/8041765375?utm_medium=api&utm_source=rss) by Emily Rath (⭐️3.75)
-- [The Scent of Oranges](https://www.goodreads.com/review/show/8041763974?utm_medium=api&utm_source=rss) by Kathy     George (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
 ---
