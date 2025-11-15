@@ -30,6 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Christmas at Lilac Cottage (White Cliff Bay, #1)](https://www.goodreads.com/review/show/8073136580?utm_medium=api&utm_source=rss) by Holly Martin (⭐️4.02)
 - [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/review/show/8071618136?utm_medium=api&utm_source=rss) by Greg McKeown (⭐️4.01)
 - [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.71)
 - [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.3)
@@ -39,7 +40,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The One Day You Were My Husband](https://www.goodreads.com/review/show/8041776843?utm_medium=api&utm_source=rss) by Rosie Walsh (⭐️4.22)
 - [Queen of Faces (Queen of Faces, #1)](https://www.goodreads.com/review/show/8041774475?utm_medium=api&utm_source=rss) by Petra Lord (⭐️4.07)
 - [The Second World](https://www.goodreads.com/review/show/8041773250?utm_medium=api&utm_source=rss) by Jake Korell (⭐️4)
-- [A Crown of Stars](https://www.goodreads.com/review/show/8041769777?utm_medium=api&utm_source=rss) by Shana Abe (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 ---
