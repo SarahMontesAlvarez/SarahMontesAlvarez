@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Christmas at Lilac Cottage (White Cliff Bay, #1)](https://www.goodreads.com/review/show/8073136580?utm_medium=api&utm_source=rss) by Holly Martin (⭐️4.02)
 - [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/review/show/8071618136?utm_medium=api&utm_source=rss) by Greg McKeown (⭐️4.01)
-- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.72)
+- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.73)
 - [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.29)
 - [The Book Woman of Troublesome Creek (The Book Woman of Troublesome Creek #1)](https://www.goodreads.com/review/show/8044978239?utm_medium=api&utm_source=rss) by Kim Michele Richardson (⭐️3.89)
 - [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.81)
