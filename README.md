@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [A Lady for All Seasons](https://www.goodreads.com/review/show/8076333551?utm_medium=api&utm_source=rss) by T.J.   Alexander (⭐️4.3)
+- [Real Skills for Real Life: A DBT Guide to Navigating Stress, Emotions, and Relationships](https://www.goodreads.com/review/show/8076264731?utm_medium=api&utm_source=rss) by Shireen L. Rizvi (⭐️5)
+- [The Calamity Club](https://www.goodreads.com/review/show/8076264023?utm_medium=api&utm_source=rss) by Kathryn Stockett (⭐️4.25)
+- [A Bad, Bad Place](https://www.goodreads.com/review/show/8076258458?utm_medium=api&utm_source=rss) by Frances Crawford (⭐️4.67)
+- [Diving into Dreams: Navigating Life’s Deepest Waters to Discover the Secret of Having Enough](https://www.goodreads.com/review/show/8076249336?utm_medium=api&utm_source=rss) by Szilvia Gogh (⭐️5)
+- [End of Days: Ruby Ridge, the Apocalypse, and the Unmaking of America](https://www.goodreads.com/review/show/8076248314?utm_medium=api&utm_source=rss) by Chris Jennings (⭐️)
+- [Mask of Romulus](https://www.goodreads.com/review/show/8076247298?utm_medium=api&utm_source=rss) by Mark Jamilkowski (⭐️)
 - [Christmas at Lilac Cottage (White Cliff Bay, #1)](https://www.goodreads.com/review/show/8073136580?utm_medium=api&utm_source=rss) by Holly Martin (⭐️4.02)
 - [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/review/show/8071618136?utm_medium=api&utm_source=rss) by Greg McKeown (⭐️4.01)
 - [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.73)
-- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.29)
-- [The Book Woman of Troublesome Creek (The Book Woman of Troublesome Creek #1)](https://www.goodreads.com/review/show/8044978239?utm_medium=api&utm_source=rss) by Kim Michele Richardson (⭐️3.89)
-- [The Charmed Library](https://www.goodreads.com/review/show/8041777795?utm_medium=api&utm_source=rss) by Jennifer Moorman (⭐️3.81)
-- [The Lighthouse at the Cove](https://www.goodreads.com/review/show/8041777283?utm_medium=api&utm_source=rss) by Amy Clipston (⭐️3.98)
-- [The One Day You Were My Husband](https://www.goodreads.com/review/show/8041776843?utm_medium=api&utm_source=rss) by Rosie Walsh (⭐️4.3)
-- [Queen of Faces (Queen of Faces, #1)](https://www.goodreads.com/review/show/8041774475?utm_medium=api&utm_source=rss) by Petra Lord (⭐️4.07)
-- [The Second World](https://www.goodreads.com/review/show/8041773250?utm_medium=api&utm_source=rss) by Jake Korell (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ---
