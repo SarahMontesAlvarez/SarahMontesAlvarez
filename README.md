@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Mask of Romulus](https://www.goodreads.com/review/show/8076247298?utm_medium=api&utm_source=rss) by Mark Jamilkowski (⭐️)
 - [Christmas at Lilac Cottage (White Cliff Bay, #1)](https://www.goodreads.com/review/show/8073136580?utm_medium=api&utm_source=rss) by Holly Martin (⭐️4.02)
 - [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/review/show/8071618136?utm_medium=api&utm_source=rss) by Greg McKeown (⭐️4.01)
-- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.74)
+- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.75)
 <!-- GOODREADS-LIST:END -->
 
 ---
