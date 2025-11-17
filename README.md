@@ -30,7 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [A Lady for All Seasons](https://www.goodreads.com/review/show/8076333551?utm_medium=api&utm_source=rss) by T.J.   Alexander (⭐️4.3)
+- [A Lady for All Seasons](https://www.goodreads.com/review/show/8076333551?utm_medium=api&utm_source=rss) by T.J.   Alexander (⭐️4.29)
 - [Real Skills for Real Life: A DBT Guide to Navigating Stress, Emotions, and Relationships](https://www.goodreads.com/review/show/8076264731?utm_medium=api&utm_source=rss) by Shireen L. Rizvi (⭐️5)
 - [The Calamity Club](https://www.goodreads.com/review/show/8076264023?utm_medium=api&utm_source=rss) by Kathryn Stockett (⭐️4.25)
 - [A Bad, Bad Place](https://www.goodreads.com/review/show/8076258458?utm_medium=api&utm_source=rss) by Frances Crawford (⭐️4.67)
