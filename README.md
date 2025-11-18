@@ -31,12 +31,12 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
-- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.76)
+- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.77)
 - [Effortless: Make It Easier to Do What Matters Most](https://www.goodreads.com/review/show/8071618136?utm_medium=api&utm_source=rss) by Greg McKeown (⭐️4.01)
 - [A Lady for All Seasons](https://www.goodreads.com/review/show/8076333551?utm_medium=api&utm_source=rss) by T.J.   Alexander (⭐️4.29)
-- [Real Skills for Real Life: A DBT Guide to Navigating Stress, Emotions, and Relationships](https://www.goodreads.com/review/show/8076264731?utm_medium=api&utm_source=rss) by Shireen L. Rizvi (⭐️5)
+- [Real Skills for Real Life: A DBT Guide to Navigating Stress, Emotions, and Relationships](https://www.goodreads.com/review/show/8076264731?utm_medium=api&utm_source=rss) by Shireen L. Rizvi (⭐️3.67)
 - [The Calamity Club](https://www.goodreads.com/review/show/8076264023?utm_medium=api&utm_source=rss) by Kathryn Stockett (⭐️4.25)
-- [A Bad, Bad Place](https://www.goodreads.com/review/show/8076258458?utm_medium=api&utm_source=rss) by Frances Crawford (⭐️4.67)
+- [A Bad, Bad Place](https://www.goodreads.com/review/show/8076258458?utm_medium=api&utm_source=rss) by Frances Crawford (⭐️4.5)
 - [Diving into Dreams: Navigating Life’s Deepest Waters to Discover the Secret of Having Enough](https://www.goodreads.com/review/show/8076249336?utm_medium=api&utm_source=rss) by Szilvia Gogh (⭐️5)
 - [End of Days: Ruby Ridge, the Apocalypse, and the Unmaking of America](https://www.goodreads.com/review/show/8076248314?utm_medium=api&utm_source=rss) by Chris Jennings (⭐️)
 - [Mask of Romulus](https://www.goodreads.com/review/show/8076247298?utm_medium=api&utm_source=rss) by Mark Jamilkowski (⭐️)
