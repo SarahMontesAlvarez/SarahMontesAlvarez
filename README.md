@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Finding the Dream (Dream Trilogy, #3)](https://www.goodreads.com/review/show/8039908418?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.09)
 - [The Irish Goodbye](https://www.goodreads.com/review/show/8082695619?utm_medium=api&utm_source=rss) by Heather Aimee O&apos;Neill (⭐️3.78)
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
-- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.74)
+- [Aphrodite](https://www.goodreads.com/review/show/8066411134?utm_medium=api&utm_source=rss) by Phoenicia Rogerson (⭐️3.75)
 <!-- GOODREADS-LIST:END -->
 
 ---
