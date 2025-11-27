@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Hidden Nature](https://www.goodreads.com/review/show/8096424106?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.89)
 - [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.13)
-- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.24)
+- [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.23)
 - [Brimstone (Fae &amp; Alchemy, #2)](https://www.goodreads.com/review/show/8082706879?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.41)
 - [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.06)
 - [Holding the Dream (Dream Trilogy, #2)](https://www.goodreads.com/review/show/8039907903?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.05)
