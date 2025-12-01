@@ -34,11 +34,11 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Hidden Nature](https://www.goodreads.com/review/show/8096424106?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.89)
 - [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.13)
 - [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.2)
-- [Brimstone (Fae &amp; Alchemy, #2)](https://www.goodreads.com/review/show/8082706879?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.34)
+- [Brimstone (Fae &amp; Alchemy, #2)](https://www.goodreads.com/review/show/8082706879?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.33)
 - [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.05)
 - [Holding the Dream (Dream Trilogy, #2)](https://www.goodreads.com/review/show/8039907903?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.05)
 - [Finding the Dream (Dream Trilogy, #3)](https://www.goodreads.com/review/show/8039908418?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.09)
-- [The Irish Goodbye](https://www.goodreads.com/review/show/8082695619?utm_medium=api&utm_source=rss) by Heather Aimee O&apos;Neill (⭐️3.78)
+- [The Irish Goodbye](https://www.goodreads.com/review/show/8082695619?utm_medium=api&utm_source=rss) by Heather Aimee O&apos;Neill (⭐️3.77)
 - [His &amp; Hers](https://www.goodreads.com/review/show/8016002429?utm_medium=api&utm_source=rss) by Alice Feeney (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
