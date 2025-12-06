@@ -30,7 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.2)
+- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.19)
 - [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
 - [Hidden Nature](https://www.goodreads.com/review/show/8096424106?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.89)
 - [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.13)
