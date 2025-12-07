@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.19)
 - [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
 - [Hidden Nature](https://www.goodreads.com/review/show/8096424106?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.89)
-- [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.13)
+- [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.12)
 - [The Seven Rings (The Lost Bride Trilogy, #3)](https://www.goodreads.com/review/show/7936476451?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.15)
 - [Brimstone (Fae &amp; Alchemy, #2)](https://www.goodreads.com/review/show/8082706879?utm_medium=api&utm_source=rss) by Callie Hart (⭐️4.26)
 - [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.05)
