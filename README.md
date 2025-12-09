@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Hidden Star (Stars of Mithra, #1)](https://www.goodreads.com/review/show/8133114620?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.79)
+- [Public Secrets](https://www.goodreads.com/review/show/8133114153?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.99)
+- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.19)
+- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
 - [The Keeper of Stars: Special Hardcover Edition](https://www.goodreads.com/review/show/8130892704?utm_medium=api&utm_source=rss) by Buck Turner (⭐️)
 - [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.66)
 - [A Taste of Madagascar: Culinary Riches of the Red Island](https://www.goodreads.com/review/show/8130887253?utm_medium=api&utm_source=rss) by Emmanuel  Laroche (⭐️4.33)
 - [The Verdant Cage](https://www.goodreads.com/review/show/8130887109?utm_medium=api&utm_source=rss) by Jess Lourey (⭐️4.38)
 - [Younger for Life: Unlocking the Secrets of Longevity, Nutrition and Self-Care for a Youthful Life](https://www.goodreads.com/review/show/8130885556?utm_medium=api&utm_source=rss) by Anthony Youn (⭐️)
 - [When the Revolution Comes: A Fight for the Future of the Working Class](https://www.goodreads.com/review/show/8130875778?utm_medium=api&utm_source=rss) by Chris Smalls (⭐️4.2)
-- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.19)
-- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
-- [Hidden Nature](https://www.goodreads.com/review/show/8096424106?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.89)
-- [Mind Games](https://www.goodreads.com/review/show/8096424788?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ---
