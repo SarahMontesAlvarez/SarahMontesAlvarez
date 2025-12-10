@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Keeper of Stars: Special Hardcover Edition](https://www.goodreads.com/review/show/8130892704?utm_medium=api&utm_source=rss) by Buck Turner (⭐️)
 - [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.65)
 - [A Taste of Madagascar: Culinary Riches of the Red Island](https://www.goodreads.com/review/show/8130887253?utm_medium=api&utm_source=rss) by Emmanuel  Laroche (⭐️4.33)
-- [The Verdant Cage](https://www.goodreads.com/review/show/8130887109?utm_medium=api&utm_source=rss) by Jess Lourey (⭐️4.44)
+- [The Verdant Cage](https://www.goodreads.com/review/show/8130887109?utm_medium=api&utm_source=rss) by Jess Lourey (⭐️4.5)
 - [Younger for Life: Unlocking the Secrets of Longevity, Nutrition and Self-Care for a Youthful Life](https://www.goodreads.com/review/show/8130885556?utm_medium=api&utm_source=rss) by Anthony Youn (⭐️)
 <!-- GOODREADS-LIST:END -->
 
