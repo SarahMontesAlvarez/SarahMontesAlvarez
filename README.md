@@ -30,6 +30,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.12)
+- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8141149293?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.99)
 - [How to Test Negative for Stupid: And Why Washington Never Will](https://www.goodreads.com/review/show/8136202277?utm_medium=api&utm_source=rss) by John  Kennedy (⭐️4.79)
 - [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
 - [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.18)
@@ -38,8 +40,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Moon Shadows](https://www.goodreads.com/review/show/8133354638?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.92)
 - [The Keeper of Stars: Special Hardcover Edition](https://www.goodreads.com/review/show/8130892704?utm_medium=api&utm_source=rss) by Buck Turner (⭐️)
 - [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.66)
-- [A Taste of Madagascar: Culinary Riches of the Red Island](https://www.goodreads.com/review/show/8130887253?utm_medium=api&utm_source=rss) by Emmanuel  Laroche (⭐️4.33)
-- [The Verdant Cage](https://www.goodreads.com/review/show/8130887109?utm_medium=api&utm_source=rss) by Jess Lourey (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
 
 ---
