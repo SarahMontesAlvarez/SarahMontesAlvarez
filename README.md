@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Hidden Star (Stars of Mithra, #1)](https://www.goodreads.com/review/show/8133114620?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.79)
 - [Moon Shadows](https://www.goodreads.com/review/show/8133354638?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.92)
 - [The Keeper of Stars: Special Hardcover Edition](https://www.goodreads.com/review/show/8130892704?utm_medium=api&utm_source=rss) by Buck Turner (⭐️)
-- [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.65)
+- [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.64)
 <!-- GOODREADS-LIST:END -->
 
 ---
