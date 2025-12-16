@@ -30,7 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.12)
+- [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.11)
 - [Great Big Beautiful Life](https://www.goodreads.com/review/show/8141149293?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.99)
 - [How to Test Negative for Stupid: And Why Washington Never Will](https://www.goodreads.com/review/show/8136202277?utm_medium=api&utm_source=rss) by John  Kennedy (⭐️4.79)
 - [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
