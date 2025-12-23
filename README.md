@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [MINDSET: THE POWER TO REPROGRAMMING YOUR LIFE](https://www.goodreads.com/review/show/8159800671?utm_medium=api&utm_source=rss) by JAMIE LAND (⭐️3)
+- [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.05)
+- [Napoleon's Hemorrhoids: ... and Other Small Events That Changed History](https://www.goodreads.com/review/show/8166643116?utm_medium=api&utm_source=rss) by Phil Mason (⭐️3.32)
+- [Midnight at the Blackbird Café](https://www.goodreads.com/review/show/8159801623?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4)
+- [At the Coffee Shop of Curiosities](https://www.goodreads.com/review/show/8159801900?utm_medium=api&utm_source=rss) by Heather Webber (⭐️3.88)
+- [South of the Buttonwood Tree](https://www.goodreads.com/review/show/8159802661?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.25)
+- [In the Middle of Hickory Lane](https://www.goodreads.com/review/show/8159802444?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.23)
+- [The Lights of Sugarberry Cove](https://www.goodreads.com/review/show/8159802206?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4)
 - [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.11)
-- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8141149293?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.99)
-- [How to Test Negative for Stupid: And Why Washington Never Will—A Senator's Funny and Perceptive Takedown of Washington Politics](https://www.goodreads.com/review/show/8136202277?utm_medium=api&utm_source=rss) by John  Kennedy (⭐️4.78)
-- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8113188341?utm_medium=api&utm_source=rss) by John Green (⭐️4.37)
-- [The Forget-Me-Not Library](https://www.goodreads.com/review/show/8049669177?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.16)
-- [Public Secrets](https://www.goodreads.com/review/show/8133114153?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.99)
-- [Hidden Star (Stars of Mithra, #1)](https://www.goodreads.com/review/show/8133114620?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.79)
-- [Moon Shadows](https://www.goodreads.com/review/show/8133354638?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.92)
-- [The Keeper of Stars: Special Hardcover Edition](https://www.goodreads.com/review/show/8130892704?utm_medium=api&utm_source=rss) by Buck Turner (⭐️)
-- [Dawn of the North (The Ashen, #3)](https://www.goodreads.com/review/show/8130892501?utm_medium=api&utm_source=rss) by Demi Winters (⭐️4.64)
+- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8141149293?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
 
 ---
