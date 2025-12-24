@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [At the Coffee Shop of Curiosities](https://www.goodreads.com/review/show/8159801900?utm_medium=api&utm_source=rss) by Heather Webber (⭐️3.88)
 - [South of the Buttonwood Tree](https://www.goodreads.com/review/show/8159802661?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.25)
 - [In the Middle of Hickory Lane](https://www.goodreads.com/review/show/8159802444?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.23)
-- [The Lights of Sugarberry Cove](https://www.goodreads.com/review/show/8159802206?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4)
+- [The Lights of Sugarberry Cove](https://www.goodreads.com/review/show/8159802206?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.01)
 - [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.11)
 - [Great Big Beautiful Life](https://www.goodreads.com/review/show/8141149293?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.98)
 <!-- GOODREADS-LIST:END -->
