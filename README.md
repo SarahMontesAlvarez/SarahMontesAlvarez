@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [MINDSET: THE POWER TO REPROGRAMMING YOUR LIFE](https://www.goodreads.com/review/show/8159800671?utm_medium=api&utm_source=rss) by JAMIE LAND (⭐️3)
-- [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.05)
+- [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.04)
 - [Napoleon's Hemorrhoids: ... and Other Small Events That Changed History](https://www.goodreads.com/review/show/8166643116?utm_medium=api&utm_source=rss) by Phil Mason (⭐️3.32)
 - [Midnight at the Blackbird Café](https://www.goodreads.com/review/show/8159801623?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4)
 - [At the Coffee Shop of Curiosities](https://www.goodreads.com/review/show/8159801900?utm_medium=api&utm_source=rss) by Heather Webber (⭐️3.88)
