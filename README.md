@@ -30,6 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
 - [The Burning Library](https://www.goodreads.com/review/show/8179974171?utm_medium=api&utm_source=rss) by Gilly Macmillan (⭐️3.35)
 - [Napoleon's Hemorrhoids: ... and Other Small Events That Changed History](https://www.goodreads.com/review/show/8166643116?utm_medium=api&utm_source=rss) by Phil Mason (⭐️3.32)
 - [MINDSET: THE POWER TO REPROGRAMMING YOUR LIFE](https://www.goodreads.com/review/show/8159800671?utm_medium=api&utm_source=rss) by JAMIE LAND (⭐️3)
@@ -39,7 +40,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [South of the Buttonwood Tree](https://www.goodreads.com/review/show/8159802661?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.25)
 - [In the Middle of Hickory Lane](https://www.goodreads.com/review/show/8159802444?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.23)
 - [The Lights of Sugarberry Cove](https://www.goodreads.com/review/show/8159802206?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.01)
-- [Emily Wilde's Compendium of Lost Tales (Emily Wilde, #3)](https://www.goodreads.com/review/show/8141150555?utm_medium=api&utm_source=rss) by Heather Fawcett (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 
 ---
