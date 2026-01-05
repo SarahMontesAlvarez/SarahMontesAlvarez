@@ -30,7 +30,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
+- [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.07)
 - [The Burning Library](https://www.goodreads.com/review/show/8179974171?utm_medium=api&utm_source=rss) by Gilly Macmillan (⭐️3.35)
 - [Napoleon's Hemorrhoids: ... and Other Small Events That Changed History](https://www.goodreads.com/review/show/8166643116?utm_medium=api&utm_source=rss) by Phil Mason (⭐️3.32)
 - [MINDSET: THE POWER TO REPROGRAMMING YOUR LIFE](https://www.goodreads.com/review/show/8159800671?utm_medium=api&utm_source=rss) by JAMIE LAND (⭐️3)
