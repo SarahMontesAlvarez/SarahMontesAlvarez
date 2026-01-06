@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
-- [The Burning Library](https://www.goodreads.com/review/show/8179974171?utm_medium=api&utm_source=rss) by Gilly Macmillan (⭐️3.36)
-- [Napoleon's Hemorrhoids: ... and Other Small Events That Changed History](https://www.goodreads.com/review/show/8166643116?utm_medium=api&utm_source=rss) by Phil Mason (⭐️3.32)
-- [MINDSET: THE POWER TO REPROGRAMMING YOUR LIFE](https://www.goodreads.com/review/show/8159800671?utm_medium=api&utm_source=rss) by JAMIE LAND (⭐️3)
-- [The Let Them Theory: A Life-Changing Tool That Millions of People Can't Stop Talking About](https://www.goodreads.com/review/show/8082707449?utm_medium=api&utm_source=rss) by Mel Robbins (⭐️4.04)
-- [Midnight at the Blackbird Café](https://www.goodreads.com/review/show/8159801623?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4)
-- [At the Coffee Shop of Curiosities](https://www.goodreads.com/review/show/8159801900?utm_medium=api&utm_source=rss) by Heather Webber (⭐️3.88)
-- [South of the Buttonwood Tree](https://www.goodreads.com/review/show/8159802661?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.25)
-- [In the Middle of Hickory Lane](https://www.goodreads.com/review/show/8159802444?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.23)
-- [The Lights of Sugarberry Cove](https://www.goodreads.com/review/show/8159802206?utm_medium=api&utm_source=rss) by Heather Webber (⭐️4.01)
+- [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/8230782286?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐️4.52)
+- [Shutter Island](https://www.goodreads.com/review/show/8230781526?utm_medium=api&utm_source=rss) by Dennis Lehane (⭐️4.13)
+- [Interview with the Vampire (The Vampire Chronicles, #1)](https://www.goodreads.com/review/show/8230780361?utm_medium=api&utm_source=rss) by Anne Rice (⭐️4.04)
+- [The Odyssey](https://www.goodreads.com/review/show/8230776152?utm_medium=api&utm_source=rss) by Homer (⭐️3.8)
+- [The Secret Garden](https://www.goodreads.com/review/show/8230775505?utm_medium=api&utm_source=rss) by Frances Hodgson Burnett (⭐️4.16)
+- [The Outsiders](https://www.goodreads.com/review/show/8230775044?utm_medium=api&utm_source=rss) by S.E. Hinton (⭐️4.13)
+- [Charlotte’s Web](https://www.goodreads.com/review/show/8230774227?utm_medium=api&utm_source=rss) by E.B. White (⭐️4.21)
+- [The Help](https://www.goodreads.com/review/show/2819951379?utm_medium=api&utm_source=rss) by Kathryn Stockett (⭐️4.47)
+- [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/8230772575?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐️4.07)
+- [The Giving Tree](https://www.goodreads.com/review/show/8230771990?utm_medium=api&utm_source=rss) by Shel Silverstein (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
 
 ---
