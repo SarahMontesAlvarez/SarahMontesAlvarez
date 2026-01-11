@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [What Feasts at Night (Sworn Soldier, #2)](https://www.goodreads.com/review/show/8250745801?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.77)
+- [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
+- [Vagabond: A Memoir](https://www.goodreads.com/review/show/8230758865?utm_medium=api&utm_source=rss) by Tim Curry (⭐️4.38)
+- [What Moves the Dead (Sworn Soldier, #1)](https://www.goodreads.com/review/show/8230761150?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.84)
+- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8250742416?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.93)
 - [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/8230782286?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐️4.52)
 - [Shutter Island](https://www.goodreads.com/review/show/8230781526?utm_medium=api&utm_source=rss) by Dennis Lehane (⭐️4.13)
 - [Interview with the Vampire (The Vampire Chronicles, #1)](https://www.goodreads.com/review/show/8230780361?utm_medium=api&utm_source=rss) by Anne Rice (⭐️4.04)
 - [The Odyssey](https://www.goodreads.com/review/show/8230776152?utm_medium=api&utm_source=rss) by Homer (⭐️3.8)
 - [The Secret Garden](https://www.goodreads.com/review/show/8230775505?utm_medium=api&utm_source=rss) by Frances Hodgson Burnett (⭐️4.16)
-- [The Outsiders](https://www.goodreads.com/review/show/8230775044?utm_medium=api&utm_source=rss) by S.E. Hinton (⭐️4.13)
-- [Charlotte’s Web](https://www.goodreads.com/review/show/8230774227?utm_medium=api&utm_source=rss) by E.B. White (⭐️4.21)
-- [The Help](https://www.goodreads.com/review/show/2819951379?utm_medium=api&utm_source=rss) by Kathryn Stockett (⭐️4.47)
-- [Alice’s Adventures in Wonderland / Through the Looking-Glass](https://www.goodreads.com/review/show/8230772575?utm_medium=api&utm_source=rss) by Lewis Carroll (⭐️4.07)
-- [The Giving Tree](https://www.goodreads.com/review/show/8230771990?utm_medium=api&utm_source=rss) by Shel Silverstein (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
 
 ---
