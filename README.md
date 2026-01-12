@@ -30,16 +30,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [North Woods](https://www.goodreads.com/review/show/8254427031?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.1)
+- [Girl, Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals](https://www.goodreads.com/review/show/8254422983?utm_medium=api&utm_source=rss) by Rachel Hollis (⭐️3.77)
+- [The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/review/show/8254422720?utm_medium=api&utm_source=rss) by Jane Goodall (⭐️4.21)
+- [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/8254422029?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
+- [The Bookshop: A History of the American Bookstore](https://www.goodreads.com/review/show/8254421454?utm_medium=api&utm_source=rss) by Evan Friss (⭐️3.9)
+- [The Hacienda](https://www.goodreads.com/review/show/8254420636?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️3.83)
+- [The Reformatory](https://www.goodreads.com/review/show/8254420568?utm_medium=api&utm_source=rss) by Tananarive Due (⭐️4.42)
+- [Project Hail Mary](https://www.goodreads.com/review/show/8254419101?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8254417633?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.11)
 - [What Feasts at Night (Sworn Soldier, #2)](https://www.goodreads.com/review/show/8250745801?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.77)
-- [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
-- [Vagabond: A Memoir](https://www.goodreads.com/review/show/8230758865?utm_medium=api&utm_source=rss) by Tim Curry (⭐️4.38)
-- [What Moves the Dead (Sworn Soldier, #1)](https://www.goodreads.com/review/show/8230761150?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.84)
-- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8250742416?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.93)
-- [The Name of the Wind (The Kingkiller Chronicle, #1)](https://www.goodreads.com/review/show/8230782286?utm_medium=api&utm_source=rss) by Patrick Rothfuss (⭐️4.52)
-- [Shutter Island](https://www.goodreads.com/review/show/8230781526?utm_medium=api&utm_source=rss) by Dennis Lehane (⭐️4.13)
-- [Interview with the Vampire (The Vampire Chronicles, #1)](https://www.goodreads.com/review/show/8230780361?utm_medium=api&utm_source=rss) by Anne Rice (⭐️4.04)
-- [The Odyssey](https://www.goodreads.com/review/show/8230776152?utm_medium=api&utm_source=rss) by Homer (⭐️3.8)
-- [The Secret Garden](https://www.goodreads.com/review/show/8230775505?utm_medium=api&utm_source=rss) by Frances Hodgson Burnett (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 ---
