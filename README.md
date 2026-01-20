@@ -19,8 +19,9 @@
 ## :woman_technologist: About Me :
 
 - 👋 Hello!  My name is **Sarah**.
+- 🐿️ I am obsessed with ... My dogs, reading, donkeys, travel, sweet wine and good single malt Scotch
 - 👀 I’m interested in ... *Everything!* I love to learn new things and enjoy learning for the sake of learning.
-- 🌱 I’m currently learning ... Data Analysis, Python, AWS, Linux, R, SQL, Javascript, Git
+- 🌱 I’m currently learning ... Data Analysis, R, SQL, Javascript, Git, French, Medieval Scottish history, Crocheting
 - 💞️ I’m looking to collaborate on ... Interesting beginner Data Analysis projects I can be of value to.
 - 📫 How to reach me ... sarahbojorquez1107 at gmail.com
 
