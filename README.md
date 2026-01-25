@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Reformatory](https://www.goodreads.com/review/show/8254420568?utm_medium=api&utm_source=rss) by Tananarive Due (⭐️4.42)
 - [Project Hail Mary](https://www.goodreads.com/review/show/8254419101?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8254417633?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.1)
-- [What Feasts at Night (Sworn Soldier, #2)](https://www.goodreads.com/review/show/8250745801?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.77)
+- [What Feasts at Night (Sworn Soldier, #2)](https://www.goodreads.com/review/show/8250745801?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.76)
 <!-- GOODREADS-LIST:END -->
 
 ---
