@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.23)
+- [The Troubadour&apos;s Romance](https://www.goodreads.com/review/show/8299859455?utm_medium=api&utm_source=rss) by Robyn Carr (⭐️3.79)
+- [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
+- [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.1)
+- [Great Big Beautiful Life](https://www.goodreads.com/review/show/8250742416?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.93)
 - [North Woods](https://www.goodreads.com/review/show/8254427031?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.1)
 - [Girl, Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals](https://www.goodreads.com/review/show/8254422983?utm_medium=api&utm_source=rss) by Rachel Hollis (⭐️3.77)
 - [The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/review/show/8254422720?utm_medium=api&utm_source=rss) by Jane Goodall (⭐️4.21)
 - [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/8254422029?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
 - [The Bookshop: A History of the American Bookstore](https://www.goodreads.com/review/show/8254421454?utm_medium=api&utm_source=rss) by Evan Friss (⭐️3.9)
-- [The Hacienda](https://www.goodreads.com/review/show/8254420636?utm_medium=api&utm_source=rss) by Isabel Cañas (⭐️3.83)
-- [The Reformatory](https://www.goodreads.com/review/show/8254420568?utm_medium=api&utm_source=rss) by Tananarive Due (⭐️4.42)
-- [Project Hail Mary](https://www.goodreads.com/review/show/8254419101?utm_medium=api&utm_source=rss) by Andy Weir (⭐️4.49)
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8254417633?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.1)
-- [What Feasts at Night (Sworn Soldier, #2)](https://www.goodreads.com/review/show/8250745801?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.76)
 <!-- GOODREADS-LIST:END -->
 
 ---
