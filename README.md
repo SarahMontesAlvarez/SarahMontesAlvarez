@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Great Big Beautiful Life](https://www.goodreads.com/review/show/8250742416?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.93)
 - [North Woods](https://www.goodreads.com/review/show/8254427031?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.1)
 - [Girl, Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals](https://www.goodreads.com/review/show/8254422983?utm_medium=api&utm_source=rss) by Rachel Hollis (⭐️3.77)
-- [The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/review/show/8254422720?utm_medium=api&utm_source=rss) by Jane Goodall (⭐️4.22)
+- [The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/review/show/8254422720?utm_medium=api&utm_source=rss) by Jane Goodall (⭐️4.21)
 - [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/8254422029?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
 - [The Bookshop: A History of the American Bookstore](https://www.goodreads.com/review/show/8254421454?utm_medium=api&utm_source=rss) by Evan Friss (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
