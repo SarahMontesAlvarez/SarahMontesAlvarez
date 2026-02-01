@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.32)
+- [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.09)
+- [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
+- [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
+- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [The Troubadour&apos;s Romance](https://www.goodreads.com/review/show/8299859455?utm_medium=api&utm_source=rss) by Robyn Carr (⭐️3.79)
+- [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.32)
 - [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.04)
 - [Nine Goblins: A Tale of Low Fantasy and High Mischief](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.11)
 - [Great Big Beautiful Life](https://www.goodreads.com/review/show/8250742416?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.93)
 - [North Woods](https://www.goodreads.com/review/show/8254427031?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.1)
-- [Girl, Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals](https://www.goodreads.com/review/show/8254422983?utm_medium=api&utm_source=rss) by Rachel Hollis (⭐️3.77)
-- [The Book of Hope: A Survival Guide for Trying Times](https://www.goodreads.com/review/show/8254422720?utm_medium=api&utm_source=rss) by Jane Goodall (⭐️4.21)
-- [Say Nothing: A True Story of Murder and Memory in Northern Ireland](https://www.goodreads.com/review/show/8254422029?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.47)
-- [The Bookshop: A History of the American Bookstore](https://www.goodreads.com/review/show/8254421454?utm_medium=api&utm_source=rss) by Evan Friss (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
 
 ---
