@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.25)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.09)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Troubadour&apos;s Romance](https://www.goodreads.com/review/show/8299859455?utm_medium=api&utm_source=rss) by Robyn Carr (⭐️3.79)
 - [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.32)
 - [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.04)
-- [Nine Goblins](https://www.goodreads.com/review/show/8224374927?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.12)
 <!-- GOODREADS-LIST:END -->
 
 ---
