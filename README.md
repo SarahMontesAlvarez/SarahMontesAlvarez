@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.28)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [The Troubadour&apos;s Romance](https://www.goodreads.com/review/show/8299859455?utm_medium=api&utm_source=rss) by Robyn Carr (⭐️3.78)
 - [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.32)
-- [What Stalks the Deep (Sworn Soldier, #3)](https://www.goodreads.com/review/show/8250746105?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
 ---
