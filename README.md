@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Chasing the Clouds Away](https://www.goodreads.com/review/show/8371062276?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.12)
 - [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.68)
 - [The Ending Writes Itself](https://www.goodreads.com/review/show/8371047754?utm_medium=api&utm_source=rss) by Evelyn Clarke (⭐️3.84)
 - [The 7 1/2 Deaths of Evelyn Hardcastle](https://www.goodreads.com/review/show/8371042620?utm_medium=api&utm_source=rss) by Stuart Turton (⭐️5)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.32)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
-- [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 
 ---
