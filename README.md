@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.68)
+- [The Ending Writes Itself](https://www.goodreads.com/review/show/8371047754?utm_medium=api&utm_source=rss) by Evelyn Clarke (⭐️3.84)
+- [The 7 1/2 Deaths of Evelyn Hardcastle](https://www.goodreads.com/review/show/8371042620?utm_medium=api&utm_source=rss) by Stuart Turton (⭐️5)
+- [Half His Age](https://www.goodreads.com/review/show/8371042489?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐️3.45)
 - [The Husbands](https://www.goodreads.com/review/show/8370734001?utm_medium=api&utm_source=rss) by Holly Gramazio (⭐️3.5)
 - [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
-- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.28)
+- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.32)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 - [Never Search Alone: The Job Seeker’s Playbook](https://www.goodreads.com/review/show/7400027609?utm_medium=api&utm_source=rss) by Phyl Terry (⭐️4.09)
-- [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.06)
-- [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
-- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
-- [The Troubadour&apos;s Romance](https://www.goodreads.com/review/show/8299859455?utm_medium=api&utm_source=rss) by Robyn Carr (⭐️3.78)
 <!-- GOODREADS-LIST:END -->
 
 ---
