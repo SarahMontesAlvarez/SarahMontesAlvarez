@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Chasing the Clouds Away](https://www.goodreads.com/review/show/8371062276?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.12)
-- [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.69)
+- [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.68)
 - [The Ending Writes Itself](https://www.goodreads.com/review/show/8371047754?utm_medium=api&utm_source=rss) by Evelyn Clarke (⭐️3.85)
 - [The 7 1/2 Deaths of Evelyn Hardcastle](https://www.goodreads.com/review/show/8371042620?utm_medium=api&utm_source=rss) by Stuart Turton (⭐️5)
 - [Half His Age](https://www.goodreads.com/review/show/8371042489?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐️3.45)
