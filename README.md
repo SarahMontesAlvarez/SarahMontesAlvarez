@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.55)
+- [Drifting Dawn (Scottish Isles)](https://www.goodreads.com/review/show/8372929555?utm_medium=api&utm_source=rss) by Samantha Young (⭐️)
+- [I Am the Ghost Here](https://www.goodreads.com/review/show/8372929416?utm_medium=api&utm_source=rss) by Kim Samek (⭐️4.4)
+- [The Half Life](https://www.goodreads.com/review/show/8372929334?utm_medium=api&utm_source=rss) by Rachel Beanland (⭐️5)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [Year One (Chronicles of The One, #1)](https://www.goodreads.com/review/show/2819977705?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.99)
 - [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
 - [Chasing the Clouds Away](https://www.goodreads.com/review/show/8371062276?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.12)
-- [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.68)
-- [The Ending Writes Itself](https://www.goodreads.com/review/show/8371047754?utm_medium=api&utm_source=rss) by Evelyn Clarke (⭐️3.85)
-- [The 7 1/2 Deaths of Evelyn Hardcastle](https://www.goodreads.com/review/show/8371042620?utm_medium=api&utm_source=rss) by Stuart Turton (⭐️5)
-- [Half His Age](https://www.goodreads.com/review/show/8371042489?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐️3.45)
-- [The Husbands](https://www.goodreads.com/review/show/8370734001?utm_medium=api&utm_source=rss) by Holly Gramazio (⭐️3.5)
+- [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.69)
 <!-- GOODREADS-LIST:END -->
 
 ---
