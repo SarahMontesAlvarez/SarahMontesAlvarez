@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
+- [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
+- [Year One (Chronicles of The One, #1)](https://www.goodreads.com/review/show/2819977705?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.99)
+- [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
 - [Chasing the Clouds Away](https://www.goodreads.com/review/show/8371062276?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.12)
 - [Whistler](https://www.goodreads.com/review/show/8371047843?utm_medium=api&utm_source=rss) by Ann Patchett (⭐️4.68)
 - [The Ending Writes Itself](https://www.goodreads.com/review/show/8371047754?utm_medium=api&utm_source=rss) by Evelyn Clarke (⭐️3.85)
 - [The 7 1/2 Deaths of Evelyn Hardcastle](https://www.goodreads.com/review/show/8371042620?utm_medium=api&utm_source=rss) by Stuart Turton (⭐️5)
 - [Half His Age](https://www.goodreads.com/review/show/8371042489?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐️3.45)
 - [The Husbands](https://www.goodreads.com/review/show/8370734001?utm_medium=api&utm_source=rss) by Holly Gramazio (⭐️3.5)
-- [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
-- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.28)
-- [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
-- [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 
 ---
