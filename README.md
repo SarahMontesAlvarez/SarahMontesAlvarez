@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Half His Age](https://www.goodreads.com/review/show/8371042489?utm_medium=api&utm_source=rss) by Jennette McCurdy (⭐️3.45)
 - [The Husbands](https://www.goodreads.com/review/show/8370734001?utm_medium=api&utm_source=rss) by Holly Gramazio (⭐️3.5)
 - [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
-- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.32)
+- [Rain of Shadows and Endings (The Legacy #1)](https://www.goodreads.com/review/show/8356707608?utm_medium=api&utm_source=rss) by Melissa K. Roehrich (⭐️4.28)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
