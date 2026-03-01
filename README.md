@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Irish Princess](https://www.goodreads.com/review/show/7009871326?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️3.95)
 - [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.51)
 - [Drifting Dawn (Scottish Isles #2)](https://www.goodreads.com/review/show/8372929555?utm_medium=api&utm_source=rss) by Samantha Young (⭐️)
-- [I Am the Ghost Here](https://www.goodreads.com/review/show/8372929416?utm_medium=api&utm_source=rss) by Kim Samek (⭐️4.19)
+- [I Am the Ghost Here](https://www.goodreads.com/review/show/8372929416?utm_medium=api&utm_source=rss) by Kim Samek (⭐️4.15)
 - [The Half Life](https://www.goodreads.com/review/show/8372929334?utm_medium=api&utm_source=rss) by Rachel Beanland (⭐️4.71)
 - [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
 - [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
