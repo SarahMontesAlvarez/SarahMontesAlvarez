@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Chesapeake Blue (Chesapeake Bay Saga, #4)](https://www.goodreads.com/review/show/4384921846?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.18)
+- [Inner Harbor (Chesapeake Bay Saga, #3)](https://www.goodreads.com/review/show/4384923250?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.17)
+- [Rising Tides (Chesapeake Bay Saga, #2)](https://www.goodreads.com/review/show/4384921777?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.16)
+- [Sea Swept (Chesapeake Bay Saga, #1)](https://www.goodreads.com/review/show/3008809192?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.24)
+- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
+- [The Stand](https://www.goodreads.com/review/show/3523426718?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.35)
 - [The Irish Princess](https://www.goodreads.com/review/show/7009871326?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️3.95)
 - [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.52)
 - [Drifting Dawn (Scottish Isles #2)](https://www.goodreads.com/review/show/8372929555?utm_medium=api&utm_source=rss) by Samantha Young (⭐️)
 - [I Am the Ghost Here](https://www.goodreads.com/review/show/8372929416?utm_medium=api&utm_source=rss) by Kim Samek (⭐️4.15)
-- [The Half Life](https://www.goodreads.com/review/show/8372929334?utm_medium=api&utm_source=rss) by Rachel Beanland (⭐️4.67)
-- [Clockwork Boys (Clocktaur War, #1)](https://www.goodreads.com/review/show/8348818198?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.14)
-- [The Wonder Engine (Clocktaur War, #2)](https://www.goodreads.com/review/show/8365261840?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
-- [Year One (Chronicles of The One, #1)](https://www.goodreads.com/review/show/2819977705?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️3.99)
-- [Thornhedge](https://www.goodreads.com/review/show/7829837034?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
-- [Chasing the Clouds Away](https://www.goodreads.com/review/show/8371062276?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 
 ---
