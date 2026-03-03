@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.46)
-- [Chesapeake Blue (Chesapeake Bay Saga, #4)](https://www.goodreads.com/review/show/4384921846?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.18)
-- [Inner Harbor (Chesapeake Bay Saga, #3)](https://www.goodreads.com/review/show/4384923250?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.17)
-- [Rising Tides (Chesapeake Bay Saga, #2)](https://www.goodreads.com/review/show/4384921777?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.16)
-- [Sea Swept (Chesapeake Bay Saga, #1)](https://www.goodreads.com/review/show/3008809192?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.24)
-- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
-- [The Stand](https://www.goodreads.com/review/show/3523426718?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.35)
-- [The Irish Princess](https://www.goodreads.com/review/show/7009871326?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️3.95)
-- [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.51)
-- [Drifting Dawn (Scottish Isles #2)](https://www.goodreads.com/review/show/8372929555?utm_medium=api&utm_source=rss) by Samantha Young (⭐️)
+- [The Feather Wars: And the Great Crusade to Save America's Birds](https://www.goodreads.com/review/show/8407385331?utm_medium=api&utm_source=rss) by James H. McCommons (⭐️4.29)
+- [The Heirs](https://www.goodreads.com/review/show/8407385244?utm_medium=api&utm_source=rss) by Faridah Àbíké-Íyímídé (⭐️3.93)
+- [Strange Eden (Strange Eden, #1)](https://www.goodreads.com/review/show/8407385174?utm_medium=api&utm_source=rss) by Gina Giordano (⭐️4.11)
+- [Lost Love&apos;s Return](https://www.goodreads.com/review/show/8407382437?utm_medium=api&utm_source=rss) by Alfred Nicols (⭐️4.33)
+- [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.14)
+- [The Lie of Having It All](https://www.goodreads.com/review/show/8407382204?utm_medium=api&utm_source=rss) by Morgan  Elizabeth (⭐️1.5)
+- [The Someday Garden](https://www.goodreads.com/review/show/8407377762?utm_medium=api&utm_source=rss) by Ashley Poston (⭐️4.43)
+- [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.16)
+- [The Fourth Wife](https://www.goodreads.com/review/show/8407377267?utm_medium=api&utm_source=rss) by Linda  Hamilton (⭐️3.82)
+- [Where the Girls Were](https://www.goodreads.com/review/show/8407373308?utm_medium=api&utm_source=rss) by Kate Schatz (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ---
