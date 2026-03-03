@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [The Stand](https://www.goodreads.com/review/show/3523426718?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.35)
 - [The Irish Princess](https://www.goodreads.com/review/show/7009871326?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️3.95)
-- [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.53)
+- [I Blew My Diet! Now What?: The Easy, Proven 21-Day Plan to Drop Pounds & Bounce Back Boldly](https://www.goodreads.com/review/show/8372929636?utm_medium=api&utm_source=rss) by Connie  Bennett (⭐️4.51)
 - [Drifting Dawn (Scottish Isles #2)](https://www.goodreads.com/review/show/8372929555?utm_medium=api&utm_source=rss) by Samantha Young (⭐️)
 - [I Am the Ghost Here](https://www.goodreads.com/review/show/8372929416?utm_medium=api&utm_source=rss) by Kim Samek (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
