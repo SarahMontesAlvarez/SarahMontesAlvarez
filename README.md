@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.54)
+- [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️)
+- [Pitch Your Potential: The Formula for Winning Dream Jobs, Awards, and Elite Opportunities](https://www.goodreads.com/review/show/8407422666?utm_medium=api&utm_source=rss) by Vicki   Johnson (⭐️5)
+- [The Moonlight Runner](https://www.goodreads.com/review/show/8407422491?utm_medium=api&utm_source=rss) by Karen Robards (⭐️4.36)
 - [The Feather Wars: And the Great Crusade to Save America's Birds](https://www.goodreads.com/review/show/8407385331?utm_medium=api&utm_source=rss) by James H. McCommons (⭐️4.29)
 - [The Heirs](https://www.goodreads.com/review/show/8407385244?utm_medium=api&utm_source=rss) by Faridah Àbíké-Íyímídé (⭐️3.93)
 - [Strange Eden (Strange Eden, #1)](https://www.goodreads.com/review/show/8407385174?utm_medium=api&utm_source=rss) by Gina Giordano (⭐️4.11)
 - [Lost Love&apos;s Return](https://www.goodreads.com/review/show/8407382437?utm_medium=api&utm_source=rss) by Alfred Nicols (⭐️4.33)
 - [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.14)
 - [The Lie of Having It All](https://www.goodreads.com/review/show/8407382204?utm_medium=api&utm_source=rss) by Morgan  Elizabeth (⭐️1.5)
-- [The Someday Garden](https://www.goodreads.com/review/show/8407377762?utm_medium=api&utm_source=rss) by Ashley Poston (⭐️4.43)
-- [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️4.16)
-- [The Fourth Wife](https://www.goodreads.com/review/show/8407377267?utm_medium=api&utm_source=rss) by Linda  Hamilton (⭐️3.82)
-- [Where the Girls Were](https://www.goodreads.com/review/show/8407373308?utm_medium=api&utm_source=rss) by Kate Schatz (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ---
