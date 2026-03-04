@@ -36,10 +36,10 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Pitch Your Potential: The Formula for Winning Dream Jobs, Awards, and Elite Opportunities](https://www.goodreads.com/review/show/8407422666?utm_medium=api&utm_source=rss) by Vicki   Johnson (⭐️5)
 - [The Moonlight Runner](https://www.goodreads.com/review/show/8407422491?utm_medium=api&utm_source=rss) by Karen Robards (⭐️4.36)
 - [The Feather Wars: And the Great Crusade to Save America's Birds](https://www.goodreads.com/review/show/8407385331?utm_medium=api&utm_source=rss) by James H. McCommons (⭐️4.29)
-- [The Heirs](https://www.goodreads.com/review/show/8407385244?utm_medium=api&utm_source=rss) by Faridah Àbíké-Íyímídé (⭐️3.93)
+- [The Heirs](https://www.goodreads.com/review/show/8407385244?utm_medium=api&utm_source=rss) by Faridah Àbíké-Íyímídé (⭐️3.94)
 - [Strange Eden (Strange Eden, #1)](https://www.goodreads.com/review/show/8407385174?utm_medium=api&utm_source=rss) by Gina Giordano (⭐️4.11)
 - [Lost Love&apos;s Return](https://www.goodreads.com/review/show/8407382437?utm_medium=api&utm_source=rss) by Alfred Nicols (⭐️4.33)
-- [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.15)
+- [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.11)
 - [The Lie of Having It All](https://www.goodreads.com/review/show/8407382204?utm_medium=api&utm_source=rss) by Morgan  Elizabeth (⭐️1.5)
 <!-- GOODREADS-LIST:END -->
 
