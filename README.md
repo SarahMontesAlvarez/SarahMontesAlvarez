@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Heirs](https://www.goodreads.com/review/show/8407385244?utm_medium=api&utm_source=rss) by Faridah Àbíké-Íyímídé (⭐️3.93)
 - [Strange Eden (Strange Eden, #1)](https://www.goodreads.com/review/show/8407385174?utm_medium=api&utm_source=rss) by Gina Giordano (⭐️4.11)
 - [Lost Love&apos;s Return](https://www.goodreads.com/review/show/8407382437?utm_medium=api&utm_source=rss) by Alfred Nicols (⭐️4.33)
-- [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.14)
+- [The Library After Dark: A Novel](https://www.goodreads.com/review/show/8407382354?utm_medium=api&utm_source=rss) by Ande Pliego (⭐️4.15)
 - [The Lie of Having It All](https://www.goodreads.com/review/show/8407382204?utm_medium=api&utm_source=rss) by Morgan  Elizabeth (⭐️1.5)
 <!-- GOODREADS-LIST:END -->
 
