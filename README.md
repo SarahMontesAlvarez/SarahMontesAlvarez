@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Minor Mage](https://www.goodreads.com/review/show/8414016799?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
-- [The Raven and the Reindeer](https://www.goodreads.com/review/show/8414009502?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.21)
+- [The Raven and the Reindeer](https://www.goodreads.com/review/show/8414009502?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.54)
 - [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️)
 - [Pitch Your Potential: The Formula for Winning Dream Jobs, Awards, and Elite Opportunities](https://www.goodreads.com/review/show/8407422666?utm_medium=api&utm_source=rss) by Vicki   Johnson (⭐️4.83)
