@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.54)
 - [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️3.77)
 - [Pitch Your Potential: The Formula for Winning Dream Jobs, Awards, and Elite Opportunities](https://www.goodreads.com/review/show/8407422666?utm_medium=api&utm_source=rss) by Vicki   Johnson (⭐️4.79)
-- [The Moonlight Runner](https://www.goodreads.com/review/show/8407422491?utm_medium=api&utm_source=rss) by Karen Robards (⭐️4.36)
+- [The Moonlight Runner](https://www.goodreads.com/review/show/8407422491?utm_medium=api&utm_source=rss) by Karen Robards (⭐️4.35)
 - [The Feather Wars: And the Great Crusade to Save America's Birds](https://www.goodreads.com/review/show/8407385331?utm_medium=api&utm_source=rss) by James H. McCommons (⭐️4.2)
 <!-- GOODREADS-LIST:END -->
 
