@@ -31,14 +31,14 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.31)
 - [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
+- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.31)
 - [Minor Mage](https://www.goodreads.com/review/show/8414016799?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
 - [The Raven and the Reindeer](https://www.goodreads.com/review/show/8414009502?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.19)
 - [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.54)
-- [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️3.77)
+- [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️3.75)
 - [Pitch Your Potential: The Formula for Winning Dream Jobs, Awards, and Elite Opportunities](https://www.goodreads.com/review/show/8407422666?utm_medium=api&utm_source=rss) by Vicki   Johnson (⭐️4.79)
 - [The Moonlight Runner](https://www.goodreads.com/review/show/8407422491?utm_medium=api&utm_source=rss) by Karen Robards (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
