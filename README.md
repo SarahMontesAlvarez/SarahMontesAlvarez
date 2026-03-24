@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
-- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.31)
+- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.3)
 - [Minor Mage](https://www.goodreads.com/review/show/8414016799?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.2)
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
