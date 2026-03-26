@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
 - [The Raven and the Reindeer](https://www.goodreads.com/review/show/8414009502?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.19)
 - [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.52)
-- [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️3.66)
+- [The Dog Park Murders: A Grumpy Sunshine Cozy Mystery Romance](https://www.goodreads.com/review/show/8407422870?utm_medium=api&utm_source=rss) by Angela Barker (⭐️3.67)
 <!-- GOODREADS-LIST:END -->
 
 ---
