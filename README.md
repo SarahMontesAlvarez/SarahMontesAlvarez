@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.86)
 - [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.51)
 - [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
 - [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.22)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Swordheart (Swordheart, #1)](https://www.goodreads.com/review/show/7758599367?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.02)
 - [The Raven and the Reindeer](https://www.goodreads.com/review/show/8414009502?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.19)
-- [When No One Else Will](https://www.goodreads.com/review/show/8407423084?utm_medium=api&utm_source=rss) by Amanda Skenandore (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
 
 ---
