@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
 - [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.22)
 - [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
-- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.28)
+- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 ---
