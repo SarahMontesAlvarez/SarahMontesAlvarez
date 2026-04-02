@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
-- [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.87)
+- [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.83)
 - [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.5)
 - [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
 - [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.21)
