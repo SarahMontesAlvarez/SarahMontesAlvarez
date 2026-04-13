@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.22)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
 - [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.18)
 - [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
-- [Lady Tremaine](https://www.goodreads.com/review/show/8407267330?utm_medium=api&utm_source=rss) by Rachel Hochhauser (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 ---
