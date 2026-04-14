@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.83)
 - [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.51)
 - [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
-- [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.17)
+- [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.16)
 - [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
