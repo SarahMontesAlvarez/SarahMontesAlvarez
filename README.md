@@ -31,6 +31,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️5)
+- [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.2)
+- [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
 - [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.21)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
@@ -38,9 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
 - [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.8)
 - [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.51)
-- [The Wedding People](https://www.goodreads.com/review/show/8465555709?utm_medium=api&utm_source=rss) by Alison Espach (⭐️4.05)
-- [Wolf Worm](https://www.goodreads.com/review/show/8464300212?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.16)
-- [Illuminations](https://www.goodreads.com/review/show/8414018800?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
 ---
