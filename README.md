@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
-- [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
+- [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.26)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
 - [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.79)
 - [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.51)
