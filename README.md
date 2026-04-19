@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️5)
 - [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.2)
 - [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
-- [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.27)
+- [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
