@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Red Rose, White Rose](https://www.goodreads.com/review/show/5685237175?utm_medium=api&utm_source=rss) by Joanna Hickson (⭐️3.65)
 - [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️5)
 - [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.2)
 - [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Royal Rebel (Jeanette of Kent Duology #1)](https://www.goodreads.com/review/show/8479694921?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.26)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
 - [Puck](https://www.goodreads.com/review/show/8476573760?utm_medium=api&utm_source=rss) by Samantha  Allen (⭐️3.79)
-- [Spellbound](https://www.goodreads.com/review/show/8470070807?utm_medium=api&utm_source=rss) by Georgia Leighton (⭐️3.51)
 <!-- GOODREADS-LIST:END -->
 
 ---
