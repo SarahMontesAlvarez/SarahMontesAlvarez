@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Rites of the Starling (Shield of Sparrows, #2)](https://www.goodreads.com/review/show/8540124905?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.51)
+- [Rites of the Starling (Shield of Sparrows, #2)](https://www.goodreads.com/review/show/8540124905?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.5)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 - [The Devil All the Time](https://www.goodreads.com/review/show/8540123097?utm_medium=api&utm_source=rss) by Donald Ray Pollock (⭐️4.13)
 - [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.2)
