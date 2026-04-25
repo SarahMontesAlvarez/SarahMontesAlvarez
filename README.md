@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
 - [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.67)
 - [Red Rose, White Rose](https://www.goodreads.com/review/show/5685237175?utm_medium=api&utm_source=rss) by Joanna Hickson (⭐️3.65)
-- [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.25)
+- [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.24)
 - [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
