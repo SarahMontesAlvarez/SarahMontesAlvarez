@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Rites of the Starling (Shield of Sparrows, #2)](https://www.goodreads.com/review/show/8540124905?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.49)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
 - [The Devil All the Time](https://www.goodreads.com/review/show/8540123097?utm_medium=api&utm_source=rss) by Donald Ray Pollock (⭐️4.13)
-- [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.2)
+- [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.19)
 - [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
 - [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.67)
 - [Red Rose, White Rose](https://www.goodreads.com/review/show/5685237175?utm_medium=api&utm_source=rss) by Joanna Hickson (⭐️3.65)
