@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [The Seventh Bride](https://www.goodreads.com/review/show/8611000913?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
 - [The Giver of Stars](https://www.goodreads.com/review/show/3114997293?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️4.27)
 - [Rites of the Starling (Shield of Sparrows, #2)](https://www.goodreads.com/review/show/8540124905?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.44)
 - [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Sun Ascendant: The Tarnished Crown Series, Book 2](https://www.goodreads.com/review/show/8530719180?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.67)
 - [Red Rose, White Rose](https://www.goodreads.com/review/show/5685237175?utm_medium=api&utm_source=rss) by Joanna Hickson (⭐️3.65)
 - [The Crownless Queen](https://www.goodreads.com/review/show/8518141370?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.37)
-- [A Sorceress Comes to Call](https://www.goodreads.com/review/show/7675743279?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 ---
