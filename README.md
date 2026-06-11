@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Thistlemarsh](https://www.goodreads.com/review/show/7917206063?utm_medium=api&utm_source=rss) by Moorea Corrigan (⭐️3.86)
-- [Broken Dove (Silver Elite, #2)](https://www.goodreads.com/review/show/8631560378?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.2)
-- [Silver Elite (Silver Elite, #1)](https://www.goodreads.com/review/show/7938511242?utm_medium=api&utm_source=rss) by Dani Francis (⭐️4.07)
-- [The Seventh Bride](https://www.goodreads.com/review/show/8611000913?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.94)
-- [The Giver of Stars](https://www.goodreads.com/review/show/3114997293?utm_medium=api&utm_source=rss) by Jojo Moyes (⭐️4.27)
-- [Rites of the Starling (Shield of Sparrows, #2)](https://www.goodreads.com/review/show/8540124905?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.43)
-- [Shield of Sparrows (Shield of Sparrows, #1)](https://www.goodreads.com/review/show/7656319424?utm_medium=api&utm_source=rss) by Devney Perry (⭐️4.32)
-- [The Devil All the Time](https://www.goodreads.com/review/show/8540123097?utm_medium=api&utm_source=rss) by Donald Ray Pollock (⭐️4.13)
-- [Wheel of Fortune: An enthralling Medieval saga... (The Tarnished Crown Series Book 1)](https://www.goodreads.com/review/show/8530718130?utm_medium=api&utm_source=rss) by C.F. Dunn (⭐️4.21)
-- [Maybe in Another Life](https://www.goodreads.com/review/show/8530707775?utm_medium=api&utm_source=rss) by Taylor Jenkins Reid (⭐️3.77)
+- [The Foxglove King (The Nightshade Crown, #1)](https://www.goodreads.com/review/show/8676453160?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.72)
+- [For the Wolf (Wilderwood, #1)](https://www.goodreads.com/review/show/8676453596?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.57)
+- [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.35)
+- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
+- [To Sir Phillip, With Love (Bridgertons, #5)](https://www.goodreads.com/review/show/8649231369?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.65)
+- [A Wizard’s Guide to Defensive Baking](https://www.goodreads.com/review/show/8676443619?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
+- [Who Killed The Earl of Moran? (Casebook of Barnaby Adair #13)](https://www.goodreads.com/review/show/8649230233?utm_medium=api&utm_source=rss) by Stephanie Laurens (⭐️4.64)
+- [The Duke and I (Bridgertons, #1)](https://www.goodreads.com/review/show/2819973042?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.8)
+- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
+- [The Everlasting](https://www.goodreads.com/review/show/8638104104?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 ---
