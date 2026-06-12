@@ -31,6 +31,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
+- [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
+- [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
 - [The Foxglove King (The Nightshade Crown, #1)](https://www.goodreads.com/review/show/8676453160?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.72)
 - [For the Wolf (Wilderwood, #1)](https://www.goodreads.com/review/show/8676453596?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.57)
 - [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.35)
@@ -38,9 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [To Sir Phillip, With Love (Bridgertons, #5)](https://www.goodreads.com/review/show/8649231369?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.65)
 - [A Wizard’s Guide to Defensive Baking](https://www.goodreads.com/review/show/8676443619?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 - [Who Killed The Earl of Moran? (Casebook of Barnaby Adair #13)](https://www.goodreads.com/review/show/8649230233?utm_medium=api&utm_source=rss) by Stephanie Laurens (⭐️4.64)
-- [The Duke and I (Bridgertons, #1)](https://www.goodreads.com/review/show/2819973042?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.8)
-- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
-- [The Everlasting](https://www.goodreads.com/review/show/8638104104?utm_medium=api&utm_source=rss) by Alix E. Harrow (⭐️4.17)
 <!-- GOODREADS-LIST:END -->
 
 ---
