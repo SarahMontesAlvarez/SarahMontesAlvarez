@@ -40,7 +40,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
 - [To Sir Phillip, With Love (Bridgertons, #5)](https://www.goodreads.com/review/show/8649231369?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.65)
 - [A Wizard’s Guide to Defensive Baking](https://www.goodreads.com/review/show/8676443619?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
-- [Who Killed The Earl of Moran? (Casebook of Barnaby Adair #13)](https://www.goodreads.com/review/show/8649230233?utm_medium=api&utm_source=rss) by Stephanie Laurens (⭐️4.64)
+- [Who Killed The Earl of Moran? (Casebook of Barnaby Adair #13)](https://www.goodreads.com/review/show/8649230233?utm_medium=api&utm_source=rss) by Stephanie Laurens (⭐️4.63)
 <!-- GOODREADS-LIST:END -->
 
 ---
