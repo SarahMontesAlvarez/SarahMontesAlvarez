@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [For the Wolf (Wilderwood, #1)](https://www.goodreads.com/review/show/8676453596?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.57)
-- [The Final Target](https://www.goodreads.com/review/show/8041756507?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.18)
+- [The Final Target](https://www.goodreads.com/review/show/8041756507?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.19)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
