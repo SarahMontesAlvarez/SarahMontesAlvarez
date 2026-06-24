@@ -38,7 +38,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
 - [The Foxglove King (The Nightshade Crown, #1)](https://www.goodreads.com/review/show/8676453160?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.72)
 - [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.34)
-- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.23)
+- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.22)
 - [To Sir Phillip, With Love (Bridgertons, #5)](https://www.goodreads.com/review/show/8649231369?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.65)
 - [A Wizard’s Guide to Defensive Baking](https://www.goodreads.com/review/show/8676443619?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
