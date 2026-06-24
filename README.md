@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Dearly Beloved: A Pride and Prejudice Variation (Pride And Prejudice Variation Series Book 6)](https://www.goodreads.com/review/show/8712799156?utm_medium=api&utm_source=rss) by Lily   Michaels (⭐️4.04)
+- [Tea &amp; Alchemy](https://www.goodreads.com/review/show/8712796637?utm_medium=api&utm_source=rss) by Sharon Lynn Fisher (⭐️3.85)
+- [Mistborn: The Final Empire (Mistborn, #1)](https://www.goodreads.com/review/show/8712794770?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.48)
+- [Miss Percy's Pocket Guide to the Care and Feeding of British Dragons (Miss Percy Guide, #1)](https://www.goodreads.com/review/show/8712792679?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️3.88)
+- [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
 - [For the Wolf (Wilderwood, #1)](https://www.goodreads.com/review/show/8676453596?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.57)
 - [The Final Target](https://www.goodreads.com/review/show/8041756507?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.17)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
-- [The Foxglove King (The Nightshade Crown, #1)](https://www.goodreads.com/review/show/8676453160?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.72)
-- [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.34)
-- [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.22)
-- [To Sir Phillip, With Love (Bridgertons, #5)](https://www.goodreads.com/review/show/8649231369?utm_medium=api&utm_source=rss) by Julia Quinn (⭐️3.65)
-- [A Wizard’s Guide to Defensive Baking](https://www.goodreads.com/review/show/8676443619?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 ---
