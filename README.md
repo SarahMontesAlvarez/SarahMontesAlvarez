@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Dearly Beloved: A Pride and Prejudice Variation (Pride And Prejudice Variation Series Book 6)](https://www.goodreads.com/review/show/8712799156?utm_medium=api&utm_source=rss) by Lily   Michaels (⭐️4.04)
+- [Dearly Beloved: A Pride and Prejudice Variation (Pride And Prejudice Variation Series Book 6)](https://www.goodreads.com/review/show/8712799156?utm_medium=api&utm_source=rss) by Lily   Michaels (⭐️4.05)
 - [Tea &amp; Alchemy](https://www.goodreads.com/review/show/8712796637?utm_medium=api&utm_source=rss) by Sharon Lynn Fisher (⭐️3.85)
 - [Mistborn: The Final Empire (Mistborn, #1)](https://www.goodreads.com/review/show/8712794770?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.48)
 - [Miss Percy's Pocket Guide to the Care and Feeding of British Dragons (Miss Percy Guide, #1)](https://www.goodreads.com/review/show/8712792679?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️3.88)
