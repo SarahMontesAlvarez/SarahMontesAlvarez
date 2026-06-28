@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Dearly Beloved: A Pride and Prejudice Variation (Pride And Prejudice Variation Series Book 6)](https://www.goodreads.com/review/show/8712799156?utm_medium=api&utm_source=rss) by Lily   Michaels (⭐️4.07)
-- [Tea &amp; Alchemy](https://www.goodreads.com/review/show/8712796637?utm_medium=api&utm_source=rss) by Sharon Lynn Fisher (⭐️3.85)
-- [Mistborn: The Final Empire (Mistborn, #1)](https://www.goodreads.com/review/show/8712794770?utm_medium=api&utm_source=rss) by Brandon Sanderson (⭐️4.48)
-- [Miss Percy's Pocket Guide to the Care and Feeding of British Dragons (Miss Percy Guide, #1)](https://www.goodreads.com/review/show/8712792679?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️3.88)
-- [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
-- [For the Wolf (Wilderwood, #1)](https://www.goodreads.com/review/show/8676453596?utm_medium=api&utm_source=rss) by Hannah Whitten (⭐️3.57)
-- [The Final Target](https://www.goodreads.com/review/show/8041756507?utm_medium=api&utm_source=rss) by Nora Roberts (⭐️4.16)
-- [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
+- [Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8724426509?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.39)
+- [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.54)
 - [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
+- [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
+- [An Elusive Dragon (Dragons of Mayfair, #2)](https://www.goodreads.com/review/show/8724412262?utm_medium=api&utm_source=rss) by E.B. Wheeler (⭐️4.01)
+- [A Proper Dragon (Dragons of Mayfair, #1)](https://www.goodreads.com/review/show/8724411927?utm_medium=api&utm_source=rss) by E.B. Wheeler (⭐️3.9)
+- [A Subtle Dragon (Dragons of Mayfair, #3)](https://www.goodreads.com/review/show/8724412469?utm_medium=api&utm_source=rss) by E.B. Wheeler (⭐️4.21)
+- [The Unicorn Hunters](https://www.goodreads.com/review/show/8724410686?utm_medium=api&utm_source=rss) by Katherine Arden (⭐️4.02)
+- [Miss Percy's Definitive Guide to the Restoration of Dragons (Miss Percy Guide #3)](https://www.goodreads.com/review/show/8724409846?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.46)
 <!-- GOODREADS-LIST:END -->
 
 ---
