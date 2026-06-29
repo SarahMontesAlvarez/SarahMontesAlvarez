@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️4.25)
+- [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️3.8)
 - [Miss Percy's Definitive Guide to the Restoration of Dragons (Miss Percy Guide #3)](https://www.goodreads.com/review/show/8724409846?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.46)
 - [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
 - [Longsword's Lady: Countess Ela of Salisbury (Medieval Babes: Tales of Little-Known Ladies #7)](https://www.goodreads.com/review/show/8724802024?utm_medium=api&utm_source=rss) by J.P. Reedman (⭐️4.41)
