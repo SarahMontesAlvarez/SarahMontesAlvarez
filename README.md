@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Miss Percy's Definitive Guide to the Restoration of Dragons (Miss Percy Guide #3)](https://www.goodreads.com/review/show/8724409846?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.46)
 - [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
 - [Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8724426509?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.39)
-- [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.54)
+- [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.53)
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
 - [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
 - [An Elusive Dragon (Dragons of Mayfair, #2)](https://www.goodreads.com/review/show/8724412262?utm_medium=api&utm_source=rss) by E.B. Wheeler (⭐️4.01)
