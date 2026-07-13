@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Cold-Hearted Rake (The Ravenels, #1)](https://www.goodreads.com/review/show/8765085454?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.82)
 - [Longsword's Lady: Countess Ela of Salisbury (Medieval Babes: Tales of Little-Known Ladies #7)](https://www.goodreads.com/review/show/8724802024?utm_medium=api&utm_source=rss) by J.P. Reedman (⭐️4.41)
 - [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.94)
 - [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️4.2)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.53)
 - [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
 - [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
-- [An Elusive Dragon (Dragons of Mayfair, #2)](https://www.goodreads.com/review/show/8724412262?utm_medium=api&utm_source=rss) by E.B. Wheeler (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 ---
