@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Devil in Spring (The Ravenels, #3)](https://www.goodreads.com/review/show/8772230619?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.04)
+- [Marrying Winterborne (The Ravenels, #2)](https://www.goodreads.com/review/show/8772230447?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
+- [Hello Stranger (The Ravenels, #4)](https://www.goodreads.com/review/show/8772240165?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.99)
+- [Devil in Disguise (The Ravenels, #7)](https://www.goodreads.com/review/show/8772241078?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.9)
+- [Chasing Cassandra (The Ravenels, #6)](https://www.goodreads.com/review/show/8772240926?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
+- [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 - [Cold-Hearted Rake (The Ravenels, #1)](https://www.goodreads.com/review/show/8765085454?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.82)
 - [Longsword's Lady: Countess Ela of Salisbury (Medieval Babes: Tales of Little-Known Ladies #7)](https://www.goodreads.com/review/show/8724802024?utm_medium=api&utm_source=rss) by J.P. Reedman (⭐️4.41)
-- [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.93)
+- [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.94)
 - [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️4.2)
-- [Miss Percy's Definitive Guide to the Restoration of Dragons (Miss Percy Guide #3)](https://www.goodreads.com/review/show/8724409846?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.46)
-- [Remarkably Bright Creatures](https://www.goodreads.com/review/show/8679111801?utm_medium=api&utm_source=rss) by Shelby Van Pelt (⭐️4.34)
-- [Dungeon Crawler Carl (Dungeon Crawler Carl, #1)](https://www.goodreads.com/review/show/8724426509?utm_medium=api&utm_source=rss) by Matt Dinniman (⭐️4.39)
-- [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.53)
-- [People We Meet on Vacation](https://www.goodreads.com/review/show/8679111355?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
-- [Miss Percy's Travel Guide to Welsh Moors and Feral Dragons (Miss Percy Guide, #2)](https://www.goodreads.com/review/show/8712793716?utm_medium=api&utm_source=rss) by Quenby Olson (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 ---
