@@ -39,7 +39,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 - [Cold-Hearted Rake (The Ravenels, #1)](https://www.goodreads.com/review/show/8765085454?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.82)
 - [Longsword's Lady: Countess Ela of Salisbury (Medieval Babes: Tales of Little-Known Ladies #7)](https://www.goodreads.com/review/show/8724802024?utm_medium=api&utm_source=rss) by J.P. Reedman (⭐️4.41)
-- [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.94)
+- [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.93)
 - [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
