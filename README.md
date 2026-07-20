@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.47)
+- [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
+- [Chasing Cassandra (The Ravenels, #6)](https://www.goodreads.com/review/show/8772240926?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
+- [Devil in Disguise (The Ravenels, #7)](https://www.goodreads.com/review/show/8772241078?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.9)
+- [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.53)
+- [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/2819975466?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.35)
 - [Devil in Spring (The Ravenels, #3)](https://www.goodreads.com/review/show/8772230619?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.04)
 - [Marrying Winterborne (The Ravenels, #2)](https://www.goodreads.com/review/show/8772230447?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
 - [Hello Stranger (The Ravenels, #4)](https://www.goodreads.com/review/show/8772240165?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.99)
-- [Devil in Disguise (The Ravenels, #7)](https://www.goodreads.com/review/show/8772241078?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.9)
-- [Chasing Cassandra (The Ravenels, #6)](https://www.goodreads.com/review/show/8772240926?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
-- [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 - [Cold-Hearted Rake (The Ravenels, #1)](https://www.goodreads.com/review/show/8765085454?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.82)
-- [Longsword's Lady: Countess Ela of Salisbury (Medieval Babes: Tales of Little-Known Ladies #7)](https://www.goodreads.com/review/show/8724802024?utm_medium=api&utm_source=rss) by J.P. Reedman (⭐️4.41)
-- [The Boleyn Secret](https://www.goodreads.com/review/show/8735892327?utm_medium=api&utm_source=rss) by Alison Weir (⭐️3.93)
-- [If This Won't Get You Thinking, Nothing Will](https://www.goodreads.com/review/show/8724806034?utm_medium=api&utm_source=rss) by Frank Sonnenberg (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 ---
