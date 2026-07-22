@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/2819983073?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.12)
-- [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.48)
+- [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.47)
 - [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 - [Chasing Cassandra (The Ravenels, #6)](https://www.goodreads.com/review/show/8772240926?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
 - [Devil in Disguise (The Ravenels, #7)](https://www.goodreads.com/review/show/8772241078?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.9)
