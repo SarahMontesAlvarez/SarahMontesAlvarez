@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/2819983073?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.12)
 - [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.48)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Astral Library](https://www.goodreads.com/review/show/8724425312?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️3.53)
 - [The Hunger Games (The Hunger Games, #1)](https://www.goodreads.com/review/show/2819975466?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.35)
 - [Devil in Spring (The Ravenels, #3)](https://www.goodreads.com/review/show/8772230619?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.04)
-- [Marrying Winterborne (The Ravenels, #2)](https://www.goodreads.com/review/show/8772230447?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
 <!-- GOODREADS-LIST:END -->
 
 ---
