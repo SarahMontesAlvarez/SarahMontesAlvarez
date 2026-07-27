@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.64)
+- [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.65)
 - [Fairy Tale](https://www.goodreads.com/review/show/6021288624?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.04)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
