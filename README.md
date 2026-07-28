@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.64)
 - [Fairy Tale](https://www.goodreads.com/review/show/6021288624?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.04)
-- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4)
+- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.99)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/2819983073?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.12)
