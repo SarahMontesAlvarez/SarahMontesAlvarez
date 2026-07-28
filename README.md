@@ -31,16 +31,16 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
+- [Doctor Sleep (The Shining, #2)](https://www.goodreads.com/review/show/3456091286?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.11)
 - [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.65)
 - [Fairy Tale](https://www.goodreads.com/review/show/6021288624?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.04)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.99)
-- [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/2819983073?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.12)
 - [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.47)
 - [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 - [Chasing Cassandra (The Ravenels, #6)](https://www.goodreads.com/review/show/8772240926?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.07)
-- [Devil in Disguise (The Ravenels, #7)](https://www.goodreads.com/review/show/8772241078?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️3.9)
 <!-- GOODREADS-LIST:END -->
 
 ---
