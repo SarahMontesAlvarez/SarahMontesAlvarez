@@ -31,6 +31,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
+- [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.91)
 - [Everything&apos;s Eventual](https://www.goodreads.com/review/show/3851049702?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.99)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Doctor Sleep (The Shining, #2)](https://www.goodreads.com/review/show/3456091286?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.11)
@@ -39,8 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.99)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
 - [Mockingjay (The Hunger Games, #3)](https://www.goodreads.com/review/show/2819983073?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.12)
-- [Hollow Bones](https://www.goodreads.com/review/show/8786463072?utm_medium=api&utm_source=rss) by Jodi Picoult (⭐️4.48)
-- [Devil's Daughter (The Ravenels, #5)](https://www.goodreads.com/review/show/8772240461?utm_medium=api&utm_source=rss) by Lisa Kleypas (⭐️4.1)
 <!-- GOODREADS-LIST:END -->
 
 ---
