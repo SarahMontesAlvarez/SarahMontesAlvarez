@@ -36,7 +36,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Everything&apos;s Eventual](https://www.goodreads.com/review/show/3851049702?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.99)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
 - [Doctor Sleep (The Shining, #2)](https://www.goodreads.com/review/show/3456091286?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.11)
-- [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.66)
+- [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.65)
 - [Fairy Tale](https://www.goodreads.com/review/show/6021288624?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.04)
 - [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.99)
 - [Catching Fire (The Hunger Games, #2)](https://www.goodreads.com/review/show/2819978436?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️4.36)
