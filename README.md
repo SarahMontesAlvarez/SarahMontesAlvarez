@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Nightmares and Dreamscapes](https://www.goodreads.com/review/show/3874575686?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.97)
 - [Pet Sematary](https://www.goodreads.com/review/show/8823972848?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.21)
 - [A Place Beyond Courage (William Marshal, #1)](https://www.goodreads.com/review/show/7009872368?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.09)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Doctor Sleep (The Shining, #2)](https://www.goodreads.com/review/show/3456091286?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.11)
 - [Make Nice](https://www.goodreads.com/review/show/8805959597?utm_medium=api&utm_source=rss) by Ryan Effgen (⭐️3.65)
 - [Fairy Tale](https://www.goodreads.com/review/show/6021288624?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.04)
-- [Hemlock &amp; Silver](https://www.goodreads.com/review/show/7857043981?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 ---
