@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️4)
 - [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.71)
 - [The Midnight Train (The Midnight World, #2)](https://www.goodreads.com/review/show/8845250321?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.96)
 - [Nightmares and Dreamscapes](https://www.goodreads.com/review/show/3874575686?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.97)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.91)
 - [Everything&apos;s Eventual](https://www.goodreads.com/review/show/3851049702?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.99)
 - [Piranesi](https://www.goodreads.com/review/show/8679121424?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐️4.2)
-- [Doctor Sleep (The Shining, #2)](https://www.goodreads.com/review/show/3456091286?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.11)
 <!-- GOODREADS-LIST:END -->
 
 ---
