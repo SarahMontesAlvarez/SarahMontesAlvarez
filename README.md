@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [A Far Better Thing](https://www.goodreads.com/review/show/8856116280?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️3.93)
 - [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.26)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️4)
 - [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.7)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Place Beyond Courage (William Marshal, #1)](https://www.goodreads.com/review/show/7009872368?utm_medium=api&utm_source=rss) by Elizabeth Chadwick (⭐️4.09)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.05)
 - [The Bazaar of Bad Dreams](https://www.goodreads.com/review/show/3616628850?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.91)
-- [Everything&apos;s Eventual](https://www.goodreads.com/review/show/3851049702?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.99)
 <!-- GOODREADS-LIST:END -->
 
 ---
