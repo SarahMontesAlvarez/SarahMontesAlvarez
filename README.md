@@ -34,7 +34,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [A Far Better Thing](https://www.goodreads.com/review/show/8856116280?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️3.93)
 - [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.24)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️4)
-- [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.69)
+- [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.7)
 - [The Midnight Train (The Midnight World, #2)](https://www.goodreads.com/review/show/8845250321?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.96)
 - [Nightmares and Dreamscapes](https://www.goodreads.com/review/show/3874575686?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.97)
 - [Pet Sematary](https://www.goodreads.com/review/show/8823972848?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.21)
