@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [A Far Better Thing](https://www.goodreads.com/review/show/8856116280?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️3.93)
-- [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.25)
+- [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.24)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️4)
 - [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.7)
 - [The Midnight Train (The Midnight World, #2)](https://www.goodreads.com/review/show/8845250321?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.96)
