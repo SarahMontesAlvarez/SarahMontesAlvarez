@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.55)
+- [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.54)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️3.99)
 - [Pet Sematary](https://www.goodreads.com/review/show/8823972848?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.21)
 - [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.32)
