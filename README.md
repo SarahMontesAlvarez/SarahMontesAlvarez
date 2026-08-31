@@ -32,6 +32,8 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.54)
+- [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
+- [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.52)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️3.99)
 - [Pet Sematary](https://www.goodreads.com/review/show/8823972848?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.21)
 - [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.32)
@@ -39,8 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Two Twisted Crowns (The Shepherd King, #2)](https://www.goodreads.com/review/show/7595040196?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.34)
 - [One Dark Window (The Shepherd King, #1)](https://www.goodreads.com/review/show/7570842407?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.22)
 - [Country People](https://www.goodreads.com/review/show/8407377599?utm_medium=api&utm_source=rss) by Daniel       Mason (⭐️3.67)
-- [The Midnight Train (The Midnight World, #2)](https://www.goodreads.com/review/show/8845250321?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.94)
-- [Nightmares and Dreamscapes](https://www.goodreads.com/review/show/3874575686?utm_medium=api&utm_source=rss) by Stephen  King (⭐️3.97)
 <!-- GOODREADS-LIST:END -->
 
 ---
