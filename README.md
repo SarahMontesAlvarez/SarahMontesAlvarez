@@ -31,9 +31,9 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.54)
+- [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.53)
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
-- [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.52)
+- [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.51)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️3.99)
 - [Pet Sematary](https://www.goodreads.com/review/show/8823972848?utm_medium=api&utm_source=rss) by Stephen  King (⭐️4.21)
 - [The Witch Below the Dreaming Wood](https://www.goodreads.com/review/show/8855957562?utm_medium=api&utm_source=rss) by H.G. Parry (⭐️4.32)
