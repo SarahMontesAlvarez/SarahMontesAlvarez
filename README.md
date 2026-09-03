@@ -33,7 +33,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 <!-- GOODREADS-LIST:START -->
 - [A Ferry Merry Christmas](https://www.goodreads.com/review/show/8910255122?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.5)
 - [The French Illusion](https://www.goodreads.com/review/show/8910257924?utm_medium=api&utm_source=rss) by John Grisham (⭐️4.07)
-- [The Knave and the Moon  (The Stonewater Kingdom, #2)](https://www.goodreads.com/review/show/8910100455?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.52)
+- [The Knave and the Moon  (The Stonewater Kingdom, #2)](https://www.goodreads.com/review/show/8910100455?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.53)
 - [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.5)
 - [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.53)
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
