@@ -31,12 +31,12 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Pirate Queen](https://www.goodreads.com/review/show/8917827357?utm_medium=api&utm_source=rss) by Ariel Lawhon (⭐️4.42)
+- [The Pirate Queen](https://www.goodreads.com/review/show/8917827357?utm_medium=api&utm_source=rss) by Ariel Lawhon (⭐️4.43)
 - [The Lord of Stariel (Stariel, #1)](https://www.goodreads.com/review/show/8916900662?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️3.93)
 - [A Ferry Merry Christmas](https://www.goodreads.com/review/show/8910255122?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.5)
 - [The French Illusion](https://www.goodreads.com/review/show/8910257924?utm_medium=api&utm_source=rss) by John Grisham (⭐️4.06)
 - [The Knave and the Moon  (The Stonewater Kingdom, #2)](https://www.goodreads.com/review/show/8910100455?utm_medium=api&utm_source=rss) by Rachel Gillig (⭐️4.52)
-- [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.49)
+- [Daggerbound (Swordheart, #2)](https://www.goodreads.com/review/show/8907689331?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.48)
 - [Queenswood](https://www.goodreads.com/review/show/8871812405?utm_medium=api&utm_source=rss) by Kathleen Schwab (⭐️3.54)
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8848254753?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️3.99)
