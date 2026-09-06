@@ -31,7 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
-- [The Pirate Queen](https://www.goodreads.com/review/show/8917827357?utm_medium=api&utm_source=rss) by Ariel Lawhon (⭐️4.43)
+- [The Pirate Queen](https://www.goodreads.com/review/show/8917827357?utm_medium=api&utm_source=rss) by Ariel Lawhon (⭐️4.44)
 - [The Lord of Stariel (Stariel, #1)](https://www.goodreads.com/review/show/8916900662?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️3.93)
 - [A Ferry Merry Christmas](https://www.goodreads.com/review/show/8910255122?utm_medium=api&utm_source=rss) by Debbie Macomber (⭐️4.33)
 - [The French Illusion](https://www.goodreads.com/review/show/8910257924?utm_medium=api&utm_source=rss) by John Grisham (⭐️4.07)
