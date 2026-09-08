@@ -35,7 +35,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
 - [The Lord of Stariel (Stariel, #1)](https://www.goodreads.com/review/show/8916900662?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️3.93)
 - [The Prince of Secrets (Stariel, #2)](https://www.goodreads.com/review/show/8928886788?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.19)
-- [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.23)
+- [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.22)
 - [Once Upon a Forbidden Desire: Fairy Tales and Other Stories](https://www.goodreads.com/review/show/8928887598?utm_medium=api&utm_source=rss) by Erin Grey (⭐️4.03)
 - [How To Marry A Winged King](https://www.goodreads.com/review/show/8928887558?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.17)
 - [A Rake of His Own (Stariel, #5)](https://www.goodreads.com/review/show/8928887290?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.4)
