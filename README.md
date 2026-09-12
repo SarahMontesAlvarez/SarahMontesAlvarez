@@ -37,7 +37,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [The Prince of Secrets (Stariel, #2)](https://www.goodreads.com/review/show/8928886788?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.19)
 - [How To Find A Nameless Fae](https://www.goodreads.com/review/show/8928887428?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.21)
 - [Once Upon a Forbidden Desire: Fairy Tales and Other Stories](https://www.goodreads.com/review/show/8928887598?utm_medium=api&utm_source=rss) by Erin Grey (⭐️4.03)
-- [How To Marry A Winged King](https://www.goodreads.com/review/show/8928887558?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.24)
+- [How To Marry A Winged King](https://www.goodreads.com/review/show/8928887558?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.19)
 - [A Rake of His Own (Stariel, #5)](https://www.goodreads.com/review/show/8928887290?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.4)
 - [The King of Faerie (Stariel, #4)](https://www.goodreads.com/review/show/8928887154?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.33)
 - [The Court of Mortals (Stariel, #3)](https://www.goodreads.com/review/show/8928886968?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.2)
