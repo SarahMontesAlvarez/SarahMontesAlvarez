@@ -32,7 +32,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
 - [Rich Girl Nation: Taking Charge of Our Financial Futures](https://www.goodreads.com/review/show/8950992841?utm_medium=api&utm_source=rss) by Katie Gatti Tassin (⭐️4.25)
-- [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.36)
+- [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.35)
 - [At Home: A Short History of Private Life](https://www.goodreads.com/review/show/8945236431?utm_medium=api&utm_source=rss) by Bill  Bryson (⭐️3.98)
 - [The Court of Mortals (Stariel, #3)](https://www.goodreads.com/review/show/8928886968?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.2)
 - [The King of Faerie (Stariel, #4)](https://www.goodreads.com/review/show/8928887154?utm_medium=api&utm_source=rss) by A.J. Lancaster (⭐️4.33)
