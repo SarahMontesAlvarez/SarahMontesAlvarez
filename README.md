@@ -31,6 +31,7 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 
 # Last 10 Books I've Read 🤓
 <!-- GOODREADS-LIST:START -->
+- [Summary of Brief Answers to the Big Questions by Stephen Hawking](https://www.goodreads.com/review/show/5080662080?utm_medium=api&utm_source=rss) by Dennis Braun (⭐️4.23)
 - [Rich Girl Nation: Taking Charge of Our Financial Futures](https://www.goodreads.com/review/show/8950992841?utm_medium=api&utm_source=rss) by Katie Gatti Tassin (⭐️4.25)
 - [How to Be a Rich Old Lady: Your Guide to Easy Investing, Building Wealth, and Creating the Wild, Beautiful Life You Want](https://www.goodreads.com/review/show/8299866233?utm_medium=api&utm_source=rss) by Amanda Holden (⭐️4.35)
 - [At Home: A Short History of Private Life](https://www.goodreads.com/review/show/8945236431?utm_medium=api&utm_source=rss) by Bill  Bryson (⭐️3.98)
@@ -40,7 +41,6 @@ Like to read? Connect with me on <a href="https://www.goodreads.com/user/show/97
 - [Quantum Wellness: A Transformative Guide to Health, Happiness and a Better World](https://www.goodreads.com/review/show/8941932883?utm_medium=api&utm_source=rss) by Kathy Freston (⭐️3.64)
 - [Between (The Chronicles of Between, #1)](https://www.goodreads.com/review/show/8941941797?utm_medium=api&utm_source=rss) by L.L. Starling (⭐️4.29)
 - [Nettle &amp; Bone](https://www.goodreads.com/review/show/7281095090?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.04)
-- [When Christ and His Saints Slept (Plantagenets #1; Henry II and Eleanor of Aquitaine, #1)](https://www.goodreads.com/review/show/5171971473?utm_medium=api&utm_source=rss) by Sharon Kay Penman (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 ---
